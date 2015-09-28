@@ -11,7 +11,7 @@ This repository is not the original repository for this tool. Here are some link
 In this repository, for RaPiD you will find:
 * :x: The Source Code (not available)
 * :white_check_mark: [The Original Tool - RaPiD](https://profilelingui.wordpress.com/research-work/rapid-tool/) (available)
-* :white_check_mark: [A slightly modified version of the original tool](tbd1) [Vineela Boddula](https://github.com/boddulavineela) got working (available)
+* :white_check_mark: [A slightly modified version of the original tool](/tree/tool) [Vineela Boddula](https://github.com/boddulavineela) got working (available)
 
 
 This repository was constructed by [Sumeet Agarwal](https://github.com/sumeet29), [Vineela Boddula](https://github.com/boddulavineela), [Sarah Elder](https://github.com/seelder),  [Shrenuj Gandhi](https://github.com/shrenujgandhi), and [Alex Valkovsky](https://github.com/avalkovsky) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Lin Gui et. al, for their help in establishing this repository. 
