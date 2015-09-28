@@ -5,7 +5,6 @@ This repository is contains information related to the tool RaPiD presented at F
 
 This repository is not the original repository for this tool. Here are some links to the original project:
 * [The Original Project Page for RaPiD](https://profilelingui.wordpress.com/research-work/rapid-tool/)
-* [A more recent version of the project](https://profilelingui.wordpress.com/research-work/rapid-tool/)
 * [A Video of the Tool](https://www.youtube.com/watch?v=t3ygWl5SlUA)
 
 
