@@ -1,0 +1,480 @@
+<LTS>
+  <Declaration>
+  </Declaration>
+  <Processes>
+    <Process Name="P1" Parameter="" Zoom="1" StateCounter="17" Reliability="0.98">
+      <States>
+        <State Name="Success" Init="False" Target="True" Reliability="0" ReliabilityOne="False">
+          <Position X="6.3" Y="3.1" Width="0.2" />
+          <Label>
+            <Position X="6" Y="3.3" Width="0.6" />
+          </Label>
+        </State>
+        <State Name="ACU" Init="False" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="2.5" Y="4" Width="0.2" />
+          <Label>
+            <Position X="2.3" Y="4.3" Width="0.4" />
+          </Label>
+        </State>
+        <State Name="Init" Init="True" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="2.5" Y="1.4" Width="0.2" />
+          <Label>
+            <Position X="2.4" Y="1.2" Width="0.2" />
+          </Label>
+        </State>
+        <State Name="HCI" Init="False" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="2.5" Y="2.1" Width="0.2" />
+          <Label>
+            <Position X="2.1" Y="2" Width="0.3" />
+          </Label>
+        </State>
+        <State Name="SCU" Init="False" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="3.3" Y="4" Width="0.2" />
+          <Label>
+            <Position X="3.2" Y="4.3" Width="0.4" />
+          </Label>
+        </State>
+        <State Name="RTServer" Init="False" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="3.8" Y="2.1" Width="0.2" />
+          <Label>
+            <Position X="3.4" Y="1.7" Width="0.7" />
+          </Label>
+        </State>
+        <State Name="RTH1" Init="False" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="2.5" Y="2.9" Width="0.2" />
+          <Label>
+            <Position X="2.2" Y="2.7" Width="0.4" />
+          </Label>
+        </State>
+        <State Name="DM" Init="False" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="6.3" Y="2.1" Width="0.2" />
+          <Label>
+            <Position X="6.3" Y="2.3" Width="0.3" />
+          </Label>
+        </State>
+        <State Name="SM" Init="False" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="5" Y="1.6" Width="0.2" />
+          <Label>
+            <Position X="4.9" Y="1.4" Width="0.3" />
+          </Label>
+        </State>
+        <State Name="TM" Init="False" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="5" Y="2.1" Width="0.2" />
+          <Label>
+            <Position X="4.9" Y="1.9" Width="0.3" />
+          </Label>
+        </State>
+        <State Name="BM" Init="False" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="5" Y="2.6" Width="0.2" />
+          <Label>
+            <Position X="5" Y="2.8" Width="0.3" />
+          </Label>
+        </State>
+        <State Name="PCU" Init="False" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="4.1" Y="4" Width="0.2" />
+          <Label>
+            <Position X="4" Y="4.3" Width="0.4" />
+          </Label>
+        </State>
+        <State Name="TCU" Init="False" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="4.9" Y="4" Width="0.2" />
+          <Label>
+            <Position X="4.8" Y="4.3" Width="0.3" />
+          </Label>
+        </State>
+        <State Name="ECU-BTCU" Init="False" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="5.9" Y="4" Width="0.2" />
+          <Label>
+            <Position X="5.7" Y="4.3" Width="0.8" />
+          </Label>
+        </State>
+        <State Name="DataDAQ" Init="False" Target="False" Reliability="0" ReliabilityOne="False">
+          <Position X="3.8" Y="3" Width="0.2" />
+          <Label>
+            <Position X="4.1" Y="3" Width="0.7" />
+          </Label>
+        </State>
+      </States>
+      <Links>
+        <Link>
+          <From>Init</From>
+          <To>HCI</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="2.3" Y="1.7" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>HCI</From>
+          <To>RTServer</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="2.8" Y="2" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>RTServer</From>
+          <To>HCI</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>5</Distribution>
+          <Label>
+            <Position X="3.4" Y="2" Width="0.2" />
+          </Label>
+        </Link>
+        <Link>
+          <From>RTServer</From>
+          <To>RTH1</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>4</Distribution>
+          <Label>
+            <Position X="3.4" Y="2.3" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>RTH1</From>
+          <To>RTServer</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>2</Distribution>
+          <Label>
+            <Position X="2.8" Y="2.7" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>RTServer</From>
+          <To>DataDAQ</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>3</Distribution>
+          <Label>
+            <Position X="3.8" Y="2.4" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>DataDAQ</From>
+          <To>RTServer</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="3.6" Y="2.8" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>RTH1</From>
+          <To>ACU</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="2.3" Y="3.2" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>RTH1</From>
+          <To>SCU</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>1</Distribution>
+          <Label>
+            <Position X="2.8" Y="3.1" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>SCU</From>
+          <To>RTH1</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="3.4" Y="3.8" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>ACU</From>
+          <To>RTH1</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="2.3" Y="3.8" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>DataDAQ</From>
+          <To>PCU</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>1</Distribution>
+          <Label>
+            <Position X="3.7" Y="3.3" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>DataDAQ</From>
+          <To>TCU</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>2</Distribution>
+          <Label>
+            <Position X="4.1" Y="3.3" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>DataDAQ</From>
+          <To>ECU-BTCU</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>3</Distribution>
+          <Label>
+            <Position X="4.4" Y="3.2" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>RTServer</From>
+          <To>SM</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="4.2" Y="1.8" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>RTServer</From>
+          <To>TM</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>1</Distribution>
+          <Label>
+            <Position X="4.2" Y="2.1" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>RTServer</From>
+          <To>BM</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>2</Distribution>
+          <Label>
+            <Position X="4.2" Y="2.3" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>SM</From>
+          <To>DM</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="5.3" Y="1.6" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>TM</From>
+          <To>DM</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="5.3" Y="2" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>BM</From>
+          <To>DM</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="5.4" Y="2.5" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>DM</From>
+          <To>SM</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="5.9" Y="1.8" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>DM</From>
+          <To>TM</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>1</Distribution>
+          <Label>
+            <Position X="5.9" Y="2.1" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>DM</From>
+          <To>BM</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>2</Distribution>
+          <Label>
+            <Position X="5.9" Y="2.4" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>BM</From>
+          <To>Success</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>1</Distribution>
+          <Label>
+            <Position X="5.4" Y="2.8" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Success</From>
+          <To>Success</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Nail>
+            <Position X="6.8" Y="3.3" Width="0.1" />
+          </Nail>
+          <Nail>
+            <Position X="6.8" Y="3.1" Width="0.1" />
+          </Nail>
+          <Label>
+            <Position X="6.6" Y="2.9" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>SM</From>
+          <To>RTServer</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>1</Distribution>
+          <Label>
+            <Position X="4.6" Y="1.7" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>TM</From>
+          <To>RTServer</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>1</Distribution>
+          <Label>
+            <Position X="4.7" Y="2" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>BM</From>
+          <To>RTServer</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>2</Distribution>
+          <Label>
+            <Position X="4.7" Y="2.4" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>PCU</From>
+          <To>DataDAQ</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="4.2" Y="3.8" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>TCU</From>
+          <To>DataDAQ</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="4.9" Y="3.8" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>ECU-BTCU</From>
+          <To>DataDAQ</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="5.7" Y="3.8" Width="0.25" />
+          </Label>
+        </Link>
+      </Links>
+    </Process>
+  </Processes>
+</LTS>

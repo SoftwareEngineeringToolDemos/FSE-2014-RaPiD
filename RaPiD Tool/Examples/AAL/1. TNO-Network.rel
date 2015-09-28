@@ -1,0 +1,575 @@
+<LTS>
+  <Declaration>
+  </Declaration>
+  <Processes>
+    <Process Name="P1" Parameter="" Zoom="1" StateCounter="28" Reliability="0.3">
+      <States>
+        <State Name="BT" Init="False" Target="False" Reliability="1" ReliabilityOne="True">
+          <Position X="0.3" Y="9.6" Width="0.2" />
+          <Label>
+            <Position X="0.3" Y="9.9" Width="0.4" />
+          </Label>
+        </State>
+        <State Name="TransBT" Init="False" Target="False" Reliability="0.7" ReliabilityOne="True">
+          <Position X="0.3" Y="8.6" Width="0.2" />
+          <Label>
+            <Position X="0.2" Y="8.8" Width="0.9" />
+          </Label>
+        </State>
+        <State Name="iphone" Init="False" Target="False" Reliability="1" ReliabilityOne="True">
+          <Position X="1.4" Y="9.6" Width="0.2" />
+          <Label>
+            <Position X="1.2" Y="9.9" Width="0.7" />
+          </Label>
+        </State>
+        <State Name="iPad" Init="False" Target="False" Reliability="1" ReliabilityOne="True">
+          <Position X="2.4" Y="9.6" Width="0.2" />
+          <Label>
+            <Position X="2.2" Y="9.9" Width="0.5" />
+          </Label>
+        </State>
+        <State Name="Nurse Console" Init="False" Target="False" Reliability="1" ReliabilityOne="True">
+          <Position X="3.4" Y="9.6" Width="0.2" />
+          <Label>
+            <Position X="3.3" Y="9.9" Width="1.2" />
+          </Label>
+        </State>
+        <State Name="mini server" Init="False" Target="False" Reliability="1" ReliabilityOne="True">
+          <Position X="1.2" Y="6.2" Width="0.2" />
+          <Label>
+            <Position X="1.5" Y="6.3" Width="0.9" />
+          </Label>
+        </State>
+        <State Name="RE" Init="False" Target="False" Reliability="1" ReliabilityOne="True">
+          <Position X="0.6" Y="7.1" Width="0.2" />
+          <Label>
+            <Position X="0.5" Y="7.4" Width="0.4" />
+          </Label>
+        </State>
+        <State Name="Fail to bring tag" Init="False" Target="False" Reliability="1" ReliabilityOne="False">
+          <Position X="2.6" Y="1.7" Width="0.2" />
+          <Label>
+            <Position X="2.4" Y="2" Width="1.2" />
+          </Label>
+        </State>
+        <State Name="Init" Init="True" Target="False" Reliability="1" ReliabilityOne="True">
+          <Position X="1.1" Y="0.7" Width="0.2" />
+          <Label>
+            <Position X="1.6" Y="0.7" Width="0.4" />
+          </Label>
+        </State>
+        <State Name="Success" Init="False" Target="True" Reliability="1" ReliabilityOne="True">
+          <Position X="1.6" Y="11.5" Width="0.2" />
+          <Label>
+            <Position X="1.4" Y="11.7" Width="0.8" />
+          </Label>
+        </State>
+        <State Name="Shake tap" Init="False" Target="False" Reliability="0.99" ReliabilityOne="True">
+          <Position X="1.2" Y="3.7" Width="0.2" />
+          <Label>
+            <Position X="0.2" Y="3.8" Width="1.1" />
+          </Label>
+        </State>
+        <State Name="3G" Init="False" Target="False" Reliability="0.6" ReliabilityOne="False">
+          <Position X="2.5" Y="7.9" Width="0.2" />
+          <Label>
+            <Position X="2.7" Y="7.9" Width="0.5" />
+          </Label>
+        </State>
+        <State Name="wifi" Init="False" Target="False" Reliability="1" ReliabilityOne="False">
+          <Position X="3.9" Y="7.9" Width="0.2" />
+          <Label>
+            <Position X="3.7" Y="8.1" Width="0.4" />
+          </Label>
+        </State>
+        <State Name="Router" Init="False" Target="False" Reliability="0.95" ReliabilityOne="False">
+          <Position X="2.5" Y="7.1" Width="0.2" />
+          <Label>
+            <Position X="2.4" Y="7.4" Width="0.9" />
+          </Label>
+        </State>
+        <State Name="TransIphone" Init="False" Target="False" Reliability="1" ReliabilityOne="False">
+          <Position X="1.6" Y="8.6" Width="0.2" />
+          <Label>
+            <Position X="1.2" Y="8.8" Width="1" />
+          </Label>
+        </State>
+        <State Name="TransIPad" Init="False" Target="False" Reliability="1" ReliabilityOne="False">
+          <Position X="2.6" Y="8.6" Width="0.2" />
+          <Label>
+            <Position X="2.4" Y="8.8" Width="0.9" />
+          </Label>
+        </State>
+        <State Name="TransBridge" Init="False" Target="False" Reliability="0.8" ReliabilityOne="False">
+          <Position X="4.8" Y="7.9" Width="0.2" />
+          <Label>
+            <Position X="4.3" Y="8.1" Width="1.1" />
+          </Label>
+        </State>
+        <State Name="Bridge" Init="False" Target="False" Reliability="0.98" ReliabilityOne="False">
+          <Position X="5.8" Y="7.9" Width="0.2" />
+          <Label>
+            <Position X="5.7" Y="8.1" Width="0.8" />
+          </Label>
+        </State>
+        <State Name="TransPC" Init="False" Target="False" Reliability="0.75" ReliabilityOne="False">
+          <Position X="5.8" Y="8.6" Width="0.2" />
+          <Label>
+            <Position X="5.6" Y="8.8" Width="1" />
+          </Label>
+        </State>
+        <State Name="Zigbee network" Init="False" Target="False" Reliability="0.9" ReliabilityOne="False">
+          <Position X="1.2" Y="5.6" Width="0.2" />
+          <Label>
+            <Position X="1.5" Y="5.6" Width="1.3" />
+          </Label>
+        </State>
+        <State Name="TransIPad_b" Init="False" Target="False" Reliability="0.95" ReliabilityOne="False">
+          <Position X="3.8" Y="8.6" Width="0.2" />
+          <Label>
+            <Position X="3.6" Y="8.8" Width="1.2" />
+          </Label>
+        </State>
+        <State Name="Pir-SR" Init="False" Target="False" Reliability="0.98" ReliabilityOne="True">
+          <Position X="1.1" Y="2.8" Width="0.2" />
+          <Label>
+            <Position X="1.4" Y="2.8" Width="0.8" />
+          </Label>
+        </State>
+        <State Name="RFID-SR" Init="False" Target="False" Reliability="0.75" ReliabilityOne="True">
+          <Position X="1.1" Y="1.7" Width="0.2" />
+          <Label>
+            <Position X="0.2" Y="2" Width="1" />
+          </Label>
+        </State>
+        <State Name="Soap flag, Shake soap_b" Init="False" Target="False" Reliability="0.99" ReliabilityOne="True">
+          <Position X="2.1" Y="3.8" Width="0.2" />
+          <Label>
+            <Position X="1.5" Y="4.1" Width="2" />
+          </Label>
+        </State>
+        <State Name="Shake tap_b" Init="False" Target="False" Reliability="0.99" ReliabilityOne="True">
+          <Position X="2.1" Y="4.7" Width="0.2" />
+          <Label>
+            <Position X="2.4" Y="5" Width="1.2" />
+          </Label>
+        </State>
+        <State Name="Soap flag, Shake Soap" Init="False" Target="False" Reliability="0.99" ReliabilityOne="True">
+          <Position X="0.5" Y="4.7" Width="0.2" />
+          <Label>
+            <Position X="0.2" Y="5" Width="1.9" />
+          </Label>
+        </State>
+      </States>
+      <Links>
+        <Link>
+          <From>Fail to bring tag</From>
+          <To>Fail to bring tag</To>
+          <Event>Failure</Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Nail>
+            <Position X="3" Y="1.5" Width="0.1" />
+          </Nail>
+          <Nail>
+            <Position X="3.1" Y="1.7" Width="0.1" />
+          </Nail>
+          <Label>
+            <Position X="3.1" Y="1.5" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Init</From>
+          <To>RFID-SR</To>
+          <Event>
+          </Event>
+          <Probability>0.8</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="1.2" Y="1.2" Width="0.4" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Init</From>
+          <To>Fail to bring tag</To>
+          <Event>
+          </Event>
+          <Probability>0.2</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="2" Y="1.2" Width="0.4" />
+          </Label>
+        </Link>
+        <Link>
+          <From>RFID-SR</From>
+          <To>Pir-SR</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="1.2" Y="2.35" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Pir-SR</From>
+          <To>Shake tap</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="0.6" Y="3.4" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Pir-SR</From>
+          <To>Soap flag, Shake soap_b</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>1</Distribution>
+          <Label>
+            <Position X="1.65" Y="3.36" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Shake tap</From>
+          <To>Soap flag, Shake Soap</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="0.3" Y="4.4" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Soap flag, Shake soap_b</From>
+          <To>Shake tap_b</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="2.3" Y="4.4" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Soap flag, Shake Soap</From>
+          <To>Zigbee network</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="0.7" Y="5.3" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Shake tap_b</From>
+          <To>Zigbee network</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="1.7" Y="5.3" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Zigbee network</From>
+          <To>mini server</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="1.4" Y="6.1" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>mini server</From>
+          <To>RE</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="1" Y="6.75" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>RE</From>
+          <To>TransBT</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="0.6" Y="7.7" Width="0.4" />
+          </Label>
+        </Link>
+        <Link>
+          <From>RE</From>
+          <To>Router</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>1</Distribution>
+          <Label>
+            <Position X="1.5" Y="7.2" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>BT</From>
+          <To>Success</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="0.6" Y="10.3" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Success</From>
+          <To>Success</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Nail>
+            <Position X="1.9" Y="11.4" Width="0.1" />
+          </Nail>
+          <Nail>
+            <Position X="1.9" Y="11.6" Width="0.1" />
+          </Nail>
+          <Label>
+            <Position X="2" Y="11.5" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>iphone</From>
+          <To>Success</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="1.2" Y="10.2" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>iPad</From>
+          <To>Success</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="2.2" Y="10.2" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Nurse Console</From>
+          <To>Success</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="2.65" Y="10.25" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>TransBT</From>
+          <To>BT</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="0.4" Y="9.1" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Router</From>
+          <To>3G</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="2.6" Y="7.6" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>3G</From>
+          <To>TransIphone</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="1.8" Y="8.2" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>3G</From>
+          <To>TransIPad</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>1</Distribution>
+          <Label>
+            <Position X="2.7" Y="8.2" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Bridge</From>
+          <To>TransIPad_b</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="4.7" Y="8.4" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>TransIphone</From>
+          <To>iphone</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="1.6" Y="9.2" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>TransIPad</From>
+          <To>iPad</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="2.6" Y="9.2" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Router</From>
+          <To>wifi</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>1</Distribution>
+          <Label>
+            <Position X="3.4" Y="7.5" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>wifi</From>
+          <To>TransBridge</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="4.3" Y="7.8" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>TransBridge</From>
+          <To>Bridge</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="5.2" Y="7.8" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>TransIPad_b</From>
+          <To>iPad</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="3.2" Y="9.2" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Bridge</From>
+          <To>TransPC</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>1</Distribution>
+          <Label>
+            <Position X="6" Y="8.4" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>TransPC</From>
+          <To>Nurse Console</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="4.7" Y="9.2" Width="0.25" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Shake tap</From>
+          <To>Zigbee network</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>1</Distribution>
+          <Label>
+            <Position X="0.95" Y="4.61" Width="0.25" />
+          </Label>
+        </Link>
+      </Links>
+    </Process>
+  </Processes>
+</LTS>
