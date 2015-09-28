@@ -10,7 +10,7 @@ This repository is not the original repository for this tool. Here are some link
 
 In this repository, for RaPiD you will find:
 * :x: The Source Code (not available)
-* :white_check_mark: [The Original Tool - RaPiD](tbd0) (available)
+* :white_check_mark: [The Original Tool - RaPiD](https://profilelingui.wordpress.com/research-work/rapid-tool/) (available)
 * :white_check_mark: [A slightly modified version of the original tool](tbd1) [Vineela Boddula](https://github.com/boddulavineela) got working (available)
 
 
