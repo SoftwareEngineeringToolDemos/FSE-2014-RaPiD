@@ -3,7 +3,7 @@
 
 This repository contains information related to the tool RaPiD presented at Foundations of Software Engineering, 2014. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?doid=2635868.2661668).
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [The Original Project Page for RaPiD](https://profilelingui.wordpress.com/research-work/rapid-tool/)
 * [A Video of the Tool](https://www.youtube.com/watch?v=t3ygWl5SlUA)
 
