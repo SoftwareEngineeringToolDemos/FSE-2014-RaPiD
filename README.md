@@ -8,7 +8,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [A Video of the Tool](https://www.youtube.com/watch?v=t3ygWl5SlUA)
 
 
-In this repository, for RaPiD you will find:
+In this repository, for RaPiD, you will find:
 * :x: The Source Code (not available)
 * :white_check_mark: [The Original Tool - RaPiD](https://profilelingui.wordpress.com/research-work/rapid-tool/) (available)
 * :white_check_mark: [A slightly modified version of the original tool](https://github.com/SoftwareEngineeringToolDemos/FSE-2014-RaPiD/tree/tool) [Vineela Boddula](https://github.com/boddulavineela) got working (available)
