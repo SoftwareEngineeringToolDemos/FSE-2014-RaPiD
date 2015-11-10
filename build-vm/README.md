@@ -2,11 +2,11 @@
 
 Environment:
 ------
-__VM:__ Windows 7 with IE 11 (same with previous hand made VMs)
+__VM:__ Windows 7 with IE 11
 
-__Script:__ for Windows only (vagrant + powershell)
+__Script:__ vagrant using powershell for Windows
 
-__External sources:__ [modernIE/w7-ie11](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11),[Vagrant Provision Reboot Plugin](https://github.com/exratione/vagrant-provision-reboot) 
+__External sources:__ [modernIE/w7-ie11](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11),[Vagrant for Windows] (https://github.com/WinRb/vagrant-windows) [Vagrant Provision Reboot Plugin](https://github.com/exratione/vagrant-provision-reboot) 
 
 __prerequisite software:__ mcrinstaller
 
@@ -54,7 +54,7 @@ References:
 1. [Microsoft trial machine for vagrant](https://dev.windows.com/en-us/microsoft-edge/tools/vms/windows/)
 2. [Setup modern.ie vagrant boxes](https://gist.github.com/andreptb/57e388df5e881937e62a)
 3. [modernIE/w7-ie11](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
-4. [Powershell can also be nice -Or Installing Java silently and waiting](http://ramblingsofaswtester.com/?p=552)
+4. [Installing MATLAB compiler silently](http://uk.mathworks.com/matlabcentral/answers/106020-how-do-i-silently-install-the-matlab-compiler-runtime-mcr)
 5. [Vagrant Provision Reboot Plugin](https://github.com/exratione/vagrant-provision-reboot)
 6. [ADD YOUR OWN CUSTOMIZATION TO VAGRANT BOXES](https://mkrmr.wordpress.com/2012/08/12/add-your-own-customization-to-vagrant-boxes/)
 7. [Calling Executable Files in PowerShell](http://www.andyparkhill.co.uk/2012/02/calling-executable-files-in-powershell.html)
