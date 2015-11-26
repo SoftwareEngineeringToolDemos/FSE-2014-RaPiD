@@ -1,0 +1,26 @@
+Steps to install RaPiD tool:
+
+
+Prerequisites:
+
+1. Windows 64bit Operating System
+2. MATLAB(R) Compiler Runtime (MCR) : Version-7.10 (MCRInstaller can be downloaded from the Download section specified in the below Tool URL)
+3. Microsoft Visual C++ 2005 Redistributable (x64) : Version-8.0.56336
+4. .Net Framework :version-4.0.30319
+
+Important Note: 
+
+To install Prerequisites 2 and 3 together, Right click the MATLAB Compiler Runtime v7.10 installer and select Trouble shoot compatibility, the installer would prompt to install Visual C++ 2005 and continue the installation.
+
+
+Tool:
+
+1. Download the RaPiD Toolkit zip file from the Download section specified in the below Tool URL.
+2. Extract the zip folder
+3. Look for RaPiD.exe Application file.
+
+
+
+Tool URL:
+
+https://profilelingui.wordpress.com/research-work/rapid-tool/

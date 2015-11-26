@@ -1,0 +1,372 @@
+<LTS>
+  <Declaration>
+  </Declaration>
+  <Processes>
+    <Process Name="P1" Parameter="" Zoom="1" StateCounter="22" Reliability="0.98">
+      <States>
+        <State Name="Init" Init="True" Target="False" Reliability="1" ReliabilityOne="False">
+          <Position X="1" Y="0.2" Width="0.2" />
+          <Label>
+            <Position X="1.3" Y="0.2" Width="0.4" />
+          </Label>
+        </State>
+        <State Name="DB" Init="False" Target="False" Reliability="0.9811" ReliabilityOne="False">
+          <Position X="7.3" Y="1.5" Width="0.2" />
+          <Label>
+            <Position X="7.1" Y="1.8" Width="0.8" />
+          </Label>
+        </State>
+        <State Name="Server1" Init="False" Target="False" Reliability="0.9972" ReliabilityOne="False">
+          <Position X="4.4" Y="0.8" Width="0.2" />
+          <Label>
+            <Position X="4" Y="0.6" Width="1.1" />
+          </Label>
+        </State>
+        <State Name="Server2" Init="False" Target="False" Reliability="0.9972" ReliabilityOne="False">
+          <Position X="4.5" Y="1.5" Width="0.2" />
+          <Label>
+            <Position X="3.5" Y="1.4" Width="1.1" />
+          </Label>
+        </State>
+        <State Name="Server3" Init="False" Target="False" Reliability="0.9972" ReliabilityOne="False">
+          <Position X="4.6" Y="2.3" Width="0.2" />
+          <Label>
+            <Position X="4.3" Y="2.5" Width="1.1" />
+          </Label>
+        </State>
+        <State Name="Order Producer" Init="False" Target="False" Reliability="0.9975" ReliabilityOne="False">
+          <Position X="1" Y="1" Width="0.2" />
+          <Label>
+            <Position X="1.2" Y="0.9" Width="1.6" />
+          </Label>
+        </State>
+        <State Name="Success" Init="False" Target="True" Reliability="1" ReliabilityOne="False">
+          <Position X="1.1" Y="3.9" Width="0.2" />
+          <Label>
+            <Position X="1.4" Y="3.9" Width="0.8" />
+          </Label>
+        </State>
+        <State Name="C9 Print" Init="False" Target="False" Reliability="0.9463" ReliabilityOne="False">
+          <Position X="0.7" Y="2.9" Width="0.2" />
+          <Label>
+            <Position X="0.4" Y="3.1" Width="1.1" />
+          </Label>
+        </State>
+        <State Name="CB JMS" Init="False" Target="False" Reliability="0.9943" ReliabilityOne="False">
+          <Position X="1" Y="1.8" Width="0.2" />
+          <Label>
+            <Position X="0.8" Y="2.1" Width="1.1" />
+          </Label>
+        </State>
+        <State Name="C8 Price" Init="False" Target="False" Reliability="0.9457" ReliabilityOne="False">
+          <Position X="1.5" Y="2.9" Width="0.2" />
+          <Label>
+            <Position X="1.7" Y="3" Width="1.1" />
+          </Label>
+        </State>
+      </States>
+      <Links>
+        <Link>
+          <From>Order Producer</From>
+          <To>CB JMS</To>
+          <Event>
+          </Event>
+          <Probability>0.5</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Nail>
+            <Position X="1.3" Y="1.4" Width="0.1" />
+          </Nail>
+          <Label>
+            <Position X="1.3" Y="1.3" Width="0.5" />
+          </Label>
+        </Link>
+        <Link>
+          <From>CB JMS</From>
+          <To>Order Producer</To>
+          <Event>
+          </Event>
+          <Probability>0.3528</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Nail>
+            <Position X="0.8" Y="1.5" Width="0.1" />
+          </Nail>
+          <Label>
+            <Position X="0.4" Y="1.5" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>CB JMS</From>
+          <To>C9 Print</To>
+          <Event>
+          </Event>
+          <Probability>0.0272</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Nail>
+            <Position X="0.6" Y="2.2" Width="0.1" />
+          </Nail>
+          <Label>
+            <Position X="0.4" Y="2.3" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>C9 Print</From>
+          <To>CB JMS</To>
+          <Event>
+          </Event>
+          <Probability>0.5</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Nail>
+            <Position X="0.7" Y="2.8" Width="0.1" />
+          </Nail>
+          <Label>
+            <Position X="0.6" Y="2.5" Width="0.5" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Success</From>
+          <To>Success</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="1" Y="4.2" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>C9 Print</From>
+          <To>Success</To>
+          <Event>
+          </Event>
+          <Probability>0.5</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="0.53" Y="3.605" Width="0.5" />
+          </Label>
+        </Link>
+        <Link>
+          <From>CB JMS</From>
+          <To>C8 Price</To>
+          <Event>
+          </Event>
+          <Probability>0.2774</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Nail>
+            <Position X="1.3" Y="2.9" Width="0.1" />
+          </Nail>
+          <Label>
+            <Position X="1.1" Y="2.7" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>C8 Price</From>
+          <To>CB JMS</To>
+          <Event>
+          </Event>
+          <Probability>0.5</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Nail>
+            <Position X="1.7" Y="2.5" Width="0.1" />
+          </Nail>
+          <Label>
+            <Position X="1.6" Y="2.2" Width="0.5" />
+          </Label>
+        </Link>
+        <Link>
+          <From>CB JMS</From>
+          <To>Server2</To>
+          <Event>
+          </Event>
+          <Probability>0.1142</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="3.4" Y="1.7" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>CB JMS</From>
+          <To>Server3</To>
+          <Event>
+          </Event>
+          <Probability>0.1142</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="3.7" Y="2.1" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>CB JMS</From>
+          <To>Server1</To>
+          <Event>
+          </Event>
+          <Probability>0.1142</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="3.5" Y="1" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Server1</From>
+          <To>DB</To>
+          <Event>
+          </Event>
+          <Probability>0.416</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="5.5" Y="1" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Server2</From>
+          <To>DB</To>
+          <Event>
+          </Event>
+          <Probability>0.416</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="5.3" Y="1.4" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Server3</From>
+          <To>DB</To>
+          <Event>
+          </Event>
+          <Probability>0.416</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="5.4" Y="2.1" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>DB</From>
+          <To>Server1</To>
+          <Event>
+          </Event>
+          <Probability>0.3333</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="6.3" Y="1.1" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>DB</From>
+          <To>Server2</To>
+          <Event>
+          </Event>
+          <Probability>0.3333</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="6" Y="1.6" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>DB</From>
+          <To>Server3</To>
+          <Event>
+          </Event>
+          <Probability>0.3334</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="6.3" Y="2" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Server1</From>
+          <To>CB JMS</To>
+          <Event>
+          </Event>
+          <Probability>0.584</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="2.3" Y="1.4" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Server2</From>
+          <To>CB JMS</To>
+          <Event>
+          </Event>
+          <Probability>0.584</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="1.9" Y="1.8" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Server3</From>
+          <To>CB JMS</To>
+          <Event>
+          </Event>
+          <Probability>0.584</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="2.4" Y="2.1" Width="0.6" />
+          </Label>
+        </Link>
+        <Link>
+          <From>C8 Price</From>
+          <To>Success</To>
+          <Event>
+          </Event>
+          <Probability>0.5</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="1.4" Y="3.5" Width="0.5" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Init</From>
+          <To>Order Producer</To>
+          <Event>
+          </Event>
+          <Probability>1</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Label>
+            <Position X="1.2" Y="0.6" Width="0.3" />
+          </Label>
+        </Link>
+        <Link>
+          <From>Order Producer</From>
+          <To>Success</To>
+          <Event>
+          </Event>
+          <Probability>0.5</Probability>
+          <Backup>False</Backup>
+          <Distribution>0</Distribution>
+          <Nail>
+            <Position X="0.2" Y="1.3" Width="0.1" />
+          </Nail>
+          <Nail>
+            <Position X="0.2" Y="3.9" Width="0.1" />
+          </Nail>
+          <Label>
+            <Position X="0.2" Y="4" Width="0.5" />
+          </Label>
+        </Link>
+      </Links>
+    </Process>
+  </Processes>
+</LTS>

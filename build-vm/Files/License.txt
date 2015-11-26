@@ -1,0 +1,1637 @@
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Windows 7 Professional Service Pack 1 License:
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MICROSOFT SOFTWARE LICENSE TERMS
+WINDOWS 7 PROFESSIONAL SERVICE PACK 1
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you. Please read them. They apply to the software named above, which includes the media on which you received it, if any. Printed-paper license terms, which may come with the software, may replace or modify any on-screen license terms. The terms also apply to any Microsoft
+·	updates,
+·	supplements,
+·	Internet-based services, and
+·	support services
+for this software, unless other terms accompany those items. If so, those terms apply.
+By using the software, you accept these terms. If you do not accept them, do not use the software. Instead, return it to the retailer for a refund or credit. If you cannot obtain a refund there, contact Microsoft or the Microsoft affiliate serving your country for information about Microsoft’s refund policies. See www.microsoft.com/worldwide. In the United States and Canada, call (800) MICROSOFT or see www.microsoft.com/info/nareturns.htm.
+As described below, using the software also operates as your consent to the transmission of certain computer information during activation, validation and for Internet-based services.
+If you comply with these license terms, you have the rights below for each license you acquire.
+1.	OVERVIEW.
+a.	Software. The software includes desktop operating system software. This software does not include Windows Live services. Windows Live is a service available from Microsoft under a separate agreement.
+b.	License Model. The software is licensed on a per copy per computer basis. A computer is a physical hardware system with an internal storage device capable of running the software. A hardware partition or blade is considered to be a separate computer.
+2.	INSTALLATION AND USE RIGHTS.
+a.	One Copy per Computer. You may install one copy of the software on one computer. That computer is the “licensed computer.”
+b.	Licensed Computer. You may use the software on up to two processors on the licensed computer at one time. Unless otherwise provided in these license terms, you may not use the software on any other computer.
+c.	Number of Users. Unless otherwise provided in these license terms, only one user may use the software at a time.
+d.	Alternative Versions. The software may include more than one version, such as 32-bit and 64-bit. You may install and use only one version at one time.
+3.	ADDITIONAL LICENSING REQUIREMENTS AND/OR USE RIGHTS.
+a.	Multiplexing. Hardware or software you use to
+·	pool connections, or
+·	reduce the number of devices or users that directly access or use the software
+(sometimes referred to as “multiplexing” or “pooling”), does not reduce the number of licenses you need.
+b.	Font Components. While the software is running, you may use its fonts to display and print content. You may only
+·	embed fonts in content as permitted by the embedding restrictions in the fonts; and
+·	temporarily download them to a printer or other output device to print content.
+c.	Icons, images and sounds. While the software is running, you may use but not share its icons, images, sounds, and media. The sample images, sounds and media provided with the software are for your non-commercial use only.
+d.	Use with Virtualization Technologies. Instead of using the software directly on the licensed computer, you may install and use the software within only one virtual (or otherwise emulated) hardware system on the licensed computer. When used in a virtualized environment, content protected by digital rights management technology, BitLocker or any full volume disk drive encryption technology may not be as secure as protected content not in a virtualized environment. You should comply with all domestic and international laws that apply to such protected content.
+e.	Storage. You may store one copy of the software on a storage device, such as a network server. You may use that copy to install the software on any other computer to which a license has been assigned.
+f.	Device Connections. You may allow up to 20 other devices to access software installed on the licensed computer to use only File Services, Print Services, Internet Information Services and Internet Connection Sharing and Telephony Services.
+g.	Remote Access Technologies. You may access and use the software installed on the licensed computer remotely from another device using remote access technologies as follows.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MATLAB(R) Compiler Runtime (MCR) Version-7.10 License:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+·	Remote Desktop. The single primary user of the licensed computer may access a session from any other device using Remote Desktop or similar technologies. A “session” means the experience of interacting with the software, directly or indirectly, through any combination of input, output and display peripherals. Other users may access a session from any device using these technologies, if the remote device is separately licensed to run the software.
+·	Other Access Technologies. You may use Remote Assistance or similar technologies to share an active session.
+h.	Media Center Extender. You may have five Media Center Extender Sessions (or other software or devices which provide similar functionality for a similar purpose) running at the same time to display the software user interface or content on other displays or devices.
+i.	Electronic Programming Guide. If the software includes access to an electronic programming guide service that displays customized television listings, a separate service agreement applies to the service. If you do not agree to the terms of the service agreement, you may continue to use the software, but you will not be able to use the electronic programming guide service. The service may contain advertising content and related data, which are received and stored by the software. The service is not available in all areas. Please consult the software information for instructions on accessing the service agreement.
+j.	Related Media Information. If you request related media information as part of your playback experience, the data provided to you may not be in your local language. Some countries or regions have laws and regulations which may restrict or limit your ability to access certain types of content.
+k.	Worldwide Use of the Media Center. Media Center is not designed for use in every country. For example, although the Media Center information may refer to certain features such as an electronic programming guide or provide information on how to configure a TV tuner, these features may not work in your area. Please refer to the Media Center information for a list of features that may not work in your area.
+4.	MANDATORY ACTIVATION.
+Activation associates the use of the software with a specific computer. During activation, the software will send information about the software and the computer to Microsoft. This information includes the version, language and product key of the software, the Internet protocol address of the computer, and information derived from the hardware configuration of the computer. For more information, see go.microsoft.com/fwlink/?Linkid=104609. By using the software, you consent to the transmission of this information. If properly licensed, you have the right to use the version of the software installed during the installation process up to the time permitted for activation. Unless the software is activated, you have no right to use the software after the time permitted for activation. This is to prevent its unlicensed use. You are not permitted to bypass or circumvent activation. If the computer is connected to the Internet, the software may automatically connect to Microsoft for activation. You can also activate the software manually by Internet or telephone. If you do so, Internet and telephone service charges may apply. Some changes to your computer components or the software may require you to reactivate the software. The software will remind you to activate it until you do.
+5.	VALIDATION.
+a.	Validation verifies that the software has been activated and is properly licensed. It also verifies that no unauthorized changes have been made to the validation, licensing, or activation functions of the software. Validation may also check for certain malicious or unauthorized software related to such unauthorized changes. A validation check confirming that you are properly licensed permits you to continue to use the software, certain features of the software or to obtain additional benefits. You are not permitted to circumvent validation. This is to prevent unlicensed use of the software. For more information, see go.microsoft.com/fwlink/?Linkid=104610.
+b.	The software will from time to time perform a validation check of the software. The check may be initiated by the software or Microsoft. To enable the activation function and validation checks, the software may from time to time require updates or additional downloads of the validation, licensing or activation functions of the software. The updates or downloads are required for the proper functioning of the software and may be downloaded and installed without further notice to you. During or after a validation check, the software may send information about the software, the computer and the results of the validation check to Microsoft. This information includes, for example, the version and product key of the software, any unauthorized changes made to the validation, licensing or activation functions of the software, any related malicious or unauthorized software found and the Internet protocol address of the computer. Microsoft does not use the information to identify or contact you. By using the software, you consent to the transmission of this information. For more information about validation and what is sent during or after a validation check, see go.microsoft.com/fwlink/?Linkid=104611.
+c.	If, after a validation check, the software is found to be counterfeit, improperly licensed, a non-genuine Windows product, or include unauthorized changes, the functionality and experience of using the software will be affected, for example:
+Microsoft may
+·	repair the software, remove, quarantine or disable any unauthorized changes that may interfere with the proper use of the software, including circumvention of the activation or validation functions of the software, or
+·	check and remove malicious or unauthorized software known to be related to such unauthorized changes, or
+·	provide notices that the software is improperly licensed or a non-genuine Windows product
+and you may
+·	receive reminders to obtain a properly licensed copy of the software, or
+·	need to follow Microsoft’s instructions to be licensed to use the software and reactivate,
+and you may not be able to
+·	use or continue to use the software or some of the features of the software, or
+·	obtain certain updates or upgrades from Microsoft
+d.	You may only obtain updates or upgrades for the software from Microsoft or authorized sources. For more information on obtaining updates from authorized sources see go.microsoft.com/fwlink/?Linkid=104612.
+6.	POTENTIALLY UNWANTED SOFTWARE. If turned on, Windows Defender will search your computer for “spyware,” “adware” and other potentially unwanted software. If it finds potentially unwanted software, the software will ask you if you want to ignore, disable (quarantine) or remove it. Any potentially unwanted software rated “high” or “severe,” will automatically be removed after scanning unless you change the default setting. Removing or disabling potentially unwanted software may result in
+·	other software on your computer ceasing to work, or
+·	your breaching a license to use other software on your computer.
+By using this software, it is possible that you will also remove or disable software that is not potentially unwanted software.
+7.	INTERNET-BASED SERVICES. Microsoft provides Internet-based services with the software. It may change or cancel them at any time.
+a.	Consent for Internet-Based Services. The software features described below and in the Windows 7 Privacy Statement connect to Microsoft or service provider computer systems over the Internet. In some cases, you will not receive a separate notice when they connect. In some cases, you may switch off these features or not use them. For more information about these features, see the Windows 7 Privacy Statement at go.microsoft.com/fwlink/?linkid=104604. By using these features, you consent to the transmission of this information. Microsoft does not use the information to identify or contact you.
+Computer Information. The following features use Internet protocols, which send to the appropriate systems computer information, such as your Internet protocol address, the type of operating system, browser and name and version of the software you are using, and the language code of the computer where you installed the software. Microsoft uses this information to make the Internet-based services available to you.
+·	Plug and Play and Plug and Play Extensions. You may connect new hardware to your computer, either directly or over a network. Your computer may not have the drivers needed to communicate with that hardware. If so, the update feature of the software can obtain the correct driver from Microsoft and install it on your computer. An administrator can disable this update feature.
+·	Windows Update. To enable the proper functioning of the Windows Update service in the software (if you use it), updates or downloads to the Windows Update service will be required from time to time and downloaded and installed without further notice to you.
+·	Web Content Features. Features in the software can retrieve related content from Microsoft and provide it to you. Examples of these features are clip art, templates, online training, online assistance and Appshelp. You may choose not to use these web content features.
+·	Digital Certificates. The software uses digital certificates. These digital certificates confirm the identity of Internet users sending X.509 standard encrypted information. They also can be used to digitally sign files and macros, to verify the integrity and origin of the file contents. The software retrieves certificates and updates certificate revocation lists over the Internet, when available.
+·	Auto Root Update. The Auto Root Update feature updates the list of trusted certificate authorities. You can switch off the Auto Root Update feature.
+·	Windows Media Digital Rights Management. Content owners use Windows Media digital rights management technology (WMDRM) to protect their intellectual property, including copyrights. This software and third party software use WMDRM to play and copy WMDRM-protected content. If the software fails to protect the content, content owners may ask Microsoft to revoke the software’s ability to use WMDRM to play or copy protected content. Revocation does not affect other content. When you download licenses for protected content, you agree that Microsoft may include a revocation list with the licenses. Content owners may require you to upgrade WMDRM to access their content. Microsoft software that includes WMDRM will ask for your consent prior to the upgrade. If you decline an upgrade, you will not be able to access content that requires the upgrade. You may switch off WMDRM features that access the Internet. When these features are off, you can still play content for which you have a valid license.
+·	Windows Media Player. When you use Windows Media Player, it checks with Microsoft for
+·	compatible online music services in your region; and
+·	new versions of the player.
+For more information, go to go.microsoft.com/fwlink/?Linkid=104605.
+·	Malicious Software Removal. During setup, if you select “Get important updates for installation”, the software may check and remove certain malware from your computer. “Malware” is malicious software. If the software runs, it will remove the Malware listed and updated at www.support.microsoft.com/?kbid=890830. During a Malware check, a report will be sent to Microsoft with specific information about Malware detected, errors, and other information about your computer. This information is used to improve the software and other Microsoft products and services. No information included in these reports will be used to identify or contact you. You may disable the software’s reporting functionality by following the instructions found at www.support.microsoft.com/?kbid=890830. For more information, read the Windows Malicious Software Removal Tool privacy statement at go.microsoft.com/fwlink/?LinkId=113995.
+·	Network Awareness. This feature determines whether a system is connected to a network by either passive monitoring of network traffic or active DNS or HTTP queries. The query only transfers standard TCP/IP or DNS information for routing purposes. You can switch off the active query feature through a registry setting.
+·	Windows Time Service. This service synchronizes with time.windows.com once a week to provide your computer with the correct time. You can turn this feature off or choose your preferred time source within the Date and Time Control Panel applet. The connection uses standard NTP protocol.
+·	IPv6 Network Address Translation (NAT) Traversal service (Teredo). This feature helps existing home Internet gateway devices transition to IPv6. IPv6 is next generation Internet protocol. It helps enable end-to-end connectivity often needed by peer-to-peer applications. To do so, each time you start up the software the Teredo client service will attempt to locate a public Teredo Internet service. It does so by sending a query over the Internet. This query only transfers standard Domain Name Service information to determine if your computer is connected to the Internet and can locate a public Teredo service. If you
+·	use an application that needs IPv6 connectivity or
+·	configure your firewall to always enable IPv6 connectivity
+by default standard Internet Protocol information will be sent to the Teredo service at Microsoft at regular intervals. No other information is sent to Microsoft. You can change this default to use non-Microsoft servers. You can also switch off this feature using a command line utility named “netsh”.
+·	Accelerators. When you click on or move your mouse over an Accelerator in Internet Explorer, any of the following may be sent to the service provider:
+·	the title and full web address or URL of the current webpage,
+·	standard computer information, and
+·	any content you have selected.
+If you use an Accelerator provided by Microsoft, use of the information sent is subject to the Microsoft Online Privacy Statement. This statement is available at go.microsoft.com/fwlink/?linkid=31493. If you use an Accelerator provided by a third party, use of the information sent will be subject to the third party’s privacy practices.
+·	Search Suggestions Service. In Internet Explorer, when you type a search query in the Instant Search box or type a question mark (?) before your search term in the Address bar, you will see search suggestions as you type (if supported by your search provider). Everything you type in the Instant Search box or in the Address bar when preceded by a question mark (?) is sent to your search provider as you type. Also, when you press Enter or click the Search button, the text in the Instant Search box or Address bar is sent to the search provider. If you use a Microsoft search provider, use of the information sent is subject to the Microsoft Online Privacy Statement. This statement is available at go.microsoft.com/fwlink/?linkid=31493. If you use a third-party search provider, use of the information sent will be subject to the third party’s privacy practices. You can turn search suggestions off at any time. To do so, use Manage Add-ons under the Tools button in Internet Explorer. For more information about the search suggestions service, see go.microsoft.com/fwlink/?linkid=128106.
+·	Consent to Update Infrared Emitter/Receiver. The software may contain technology to ensure proper functioning of the infrared emitter/receiver device shipped with certain Media Center-based products. You agree that the software may update the firmware of this device.
+·	Media Center Online Promotions. If you use Media Center features of the software to access Internet-based content or other Internet-based services, such services may obtain the following information from the software to enable you to receive, accept and use certain promotional offers:
+·	certain computer information, such as your Internet protocol address, the type of operating system and browser you are using, and the name and version of the software you are using,
+·	the requested content, and
+·	the language code of the computer where you installed the software.
+Your use of the Media Center features to connect to those services serves as your consent to the collection and use of such information.
+b.	Use of Information. Microsoft may use the computer information, accelerator information, search suggestions information, error reports, and Malware reports to improve our software and services. We may also share it with others, such as hardware and software vendors. They may use the information to improve how their products run with Microsoft software.
+c.	Misuse of Internet-based Services. You may not use these services in any way that could harm them or impair anyone else’s use of them. You may not use the services to try to gain unauthorized access to any service, data, account or network by any means.
+8.	SCOPE OF LICENSE. The software is licensed, not sold. This agreement only gives you some rights to use the features included in the software edition you licensed. Microsoft reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement. In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways. You may not
+·	work around any technical limitations in the software;
+·	reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+·	use components of the software to run applications not running on the software;
+·	make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+·	publish the software for others to copy;
+·	rent, lease or lend the software; or
+·	use the software for commercial software hosting services.
+9.	MICROSOFT .NET BENCHMARK TESTING. The software includes one or more components of the .NET Framework (“.NET Components”). You may conduct internal benchmark testing of those components. You may disclose the results of any benchmark test of those components, provided that you comply with the conditions set forth at go.microsoft.com/fwlink/?LinkID=66406. Notwithstanding any other agreement you may have with Microsoft, if you disclose such benchmark test results, Microsoft shall have the right to disclose the results of benchmark tests it conducts of your products that compete with the applicable .NET Component, provided it complies with the same conditions set forth at go.microsoft.com/fwlink/?LinkID=66406.
+10.	BACKUP COPY.
+a.	Media. If you acquired the software on a disc or other media, you may make one backup copy of the media. You may use it only to reinstall the software on the licensed computer.
+b.	Electronic Download. If you purchased and downloaded the software online, you may make one copy of the software on a disc or other media in order to install the software on a computer. You may also use it to reinstall the software on the licensed computer.
+11.	DOCUMENTATION. Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+12.	NOT FOR RESALE SOFTWARE. You may not sell software marked as “NFR” or “Not for Resale.”
+13.	ACADEMIC EDITION SOFTWARE. You must be a “Qualified Educational User” to use software marked as “Academic Edition” or “AE.” If you do not know whether you are a Qualified Educational User, visit www.microsoft.com/education or contact the Microsoft affiliate serving your country.
+14.	GEOGRAPHIC RESTRICTIONS. If the software is marked as requiring activation in a specific geographic region, then you are only permitted to activate this software in the geographic region indicated on the software packaging. You may not be able to activate the software outside of that region. For further information on geographic restrictions, visit go.microsoft.com/fwlink/?LinkId=141397.
+15.	UPGRADES. To use upgrade software, you must first be licensed for the software that is eligible for the upgrade. Upon upgrade, this agreement takes the place of the agreement for the software you upgraded from. After you upgrade, you may no longer use the software you upgraded from.
+16.	PROOF OF LICENSE.
+a.	Genuine Proof of License. If you acquired the software on a disc or other media, your proof of license is the genuine Microsoft certificate of authenticity label with the accompanying genuine product key, and your proof of purchase. If you purchased and downloaded the software online, your proof of license is the genuine Microsoft product key for the software which you received with your purchase, and your proof of purchase from an authorized electronic supplier of genuine Microsoft software. Proof of purchase may be subject to verification by your merchant’s records.
+b.	Windows Anytime Upgrade License. If you upgrade the software using Windows Anytime Upgrade, your proof of license is the proof of license for the software you upgraded from, your Windows Anytime Upgrade product key and your proof of purchase. Proof of purchase may be subject to verification by your merchant’s records.
+c.	To identify genuine Microsoft software, see www.howtotell.com.
+17.	TRANSFER TO ANOTHER COMPUTER.
+a.	Software Other than Windows Anytime Upgrade. You may transfer the software and install it on another computer for your use. That computer becomes the licensed computer. You may not do so to share this license between computers.
+b.	Windows Anytime Upgrade Software. You may transfer the software and install it on another computer, but only if the license terms of the software you upgraded from allows you to do so. That computer becomes the licensed computer. You may not do so to share this license between computers.
+18.	TRANSFER TO A THIRD PARTY.
+a.	Software Other Than Windows Anytime Upgrade. The first user of the software may make a one time transfer of the software and this agreement, by transferring the original media, the certificate of authenticity, the product key and the proof of purchase directly to a third party. The first user must remove the software before transferring it separately from the computer. The first user may not retain any copies of the software.
+b.	Windows Anytime Upgrade Software. You may transfer the software directly to a third party only with the licensed computer. You may not keep any copies of the software or any earlier edition.
+c.	Other Requirements. Before any permitted transfer, the other party must agree that this agreement applies to the transfer and use of the software. 
+19.	Notice About the H.264/AVC Visual Standard, the VC-1 Video Standard, the MPEG-4 Visual Standard and the MPEG-2 Video Standard. This software includes H.264/AVC, VC-1, MPEG-4 Part 2, and MPEG-2 visual compression technology. MPEG LA, L.L.C. requires this notice:
+THIS PRODUCT IS LICENSED UNDER THE AVC, THE VC-1, THE MPEG-4 PART 2 VISUAL, AND THE MPEG-2 VIDEO PATENT PORTFOLIO LICENSES FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER TO (i) ENCODE VIDEO IN COMPLIANCE WITH THE ABOVE STANDARDS (“VIDEO STANDARDS”) AND/OR (ii) DECODE AVC, VC-1, MPEG-4 PART 2 AND MPEG-2 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERICAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO. NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE WWW.MPEGLA.COM.
+20.	THIRD PARTY PROGRAMS. The software contains third party programs. The license terms with those programs apply to your use of them.
+21.	EXPORT RESTRICTIONS. The software is subject to United States export laws and regulations. You must comply with all domestic and international export laws and regulations that apply to the software. These laws include restrictions on destinations, end users and end use. For additional information, see www.microsoft.com/exporting.
+22.	SUPPORT SERVICES. Microsoft provides support services for the software as described at www.support.microsoft.com/common/international.aspx. If you are using software that is not properly licensed, you will not be entitled to receive support services.
+23.	ENTIRE AGREEMENT. This agreement (including the warranty below), additional terms (including any printed-paper license terms that accompany the software and may modify or replace some or all of these terms), and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+24.	APPLICABLE LAW.
+a.	United States. If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles. The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b.	Outside the United States. If you acquired the software in any other country, the laws of that country apply.
+25.	LEGAL EFFECT. This agreement describes certain legal rights. You may have other rights under the laws of your state or country. You may also have rights with respect to the party from whom you acquired the software. This agreement does not change your rights under the laws of your state or country if the laws of your state or country do not permit it to do so.
+26.	LIMITATION ON AND EXCLUSION OF DAMAGES. You can recover from Microsoft and its suppliers only direct damages up to the amount you paid for the software. You cannot recover any other damages, including consequential, lost profits, special, indirect or incidental damages.
+This limitation applies to
+·	anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+·	claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if
+·	repair, replacement or a refund for the software does not fully compensate you for any losses; or
+·	Microsoft knew or should have known about the possibility of the damages.
+Some states do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you. They also may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+************************************************************************
+LIMITED WARRANTY
+A.	LIMITED WARRANTY. If you follow the instructions and the software is properly licensed, the software will perform substantially as described in the Microsoft materials that you receive in or with the software.
+B.	TERM OF WARRANTY; WARRANTY RECIPIENT; LENGTH OF ANY IMPLIED WARRANTIES. The limited warranty covers the software for one year after acquired by the first user. If you receive supplements, updates, or replacement software during that year, they will be covered for the remainder of the warranty or 30 days, whichever is longer. If the first user transfers the software, the remainder of the warranty will apply to the recipient.
+To the extent permitted by law, any implied warranties, guarantees or conditions last only during the term of the limited warranty. Some states do not allow limitations on how long an implied warranty lasts, so these limitations may not apply to you. They also might not apply to you because some countries may not allow limitations on how long an implied warranty, guarantee or condition lasts.
+C.	EXCLUSIONS FROM WARRANTY. This warranty does not cover problems caused by your acts (or failures to act), the acts of others, or events beyond Microsoft’s reasonable control.
+D.	REMEDY FOR BREACH OF WARRANTY. Microsoft will repair or replace the software at no charge. If Microsoft cannot repair or replace it, Microsoft will refund the amount shown on your receipt for the software. It will also repair or replace supplements, updates and replacement software at no charge. If Microsoft cannot repair or replace them, it will refund the amount you paid for them, if any. You must uninstall the software and return any media and other associated materials to Microsoft with proof of purchase to obtain a refund. These are your only remedies for breach of the limited warranty.
+E.	CONSUMER RIGHTS NOT AFFECTED. You may have additional consumer rights under your local laws, which this agreement cannot change.
+F.	WARRANTY PROCEDURES. You need proof of purchase for warranty service.
+1.	United States and Canada. For warranty service or information about how to obtain a refund for software acquired in the United States and Canada, contact Microsoft at
+·	(800) MICROSOFT;
+·	Microsoft Customer Service and Support, One Microsoft Way, Redmond, WA 98052-6399; or
+·	visit www.microsoft.com/info/nareturns.htm.
+2.	Europe, Middle East and Africa. If you acquired the software in Europe, the Middle East or Africa, Microsoft Ireland Operations Limited makes this limited warranty. To make a claim under this warranty, you should contact either
+·	Microsoft Ireland Operations Limited, Customer Care Centre, Atrium Building Block B, Carmanhall Road, Sandyford Industrial Estate, Dublin 18, Ireland; or
+·	the Microsoft affiliate serving your country (see www.microsoft.com/worldwide).
+3.	Outside United States, Canada, Europe, Middle East and Africa. If you acquired the software outside the United States, Canada, Europe, the Middle East and Africa, contact the Microsoft affiliate serving your country (see www.microsoft.com/worldwide).
+G.	NO OTHER WARRANTIES. The limited warranty is the only direct warranty from Microsoft. Microsoft gives no other express warranties, guarantees or conditions. Where allowed by your local laws, Microsoft excludes implied warranties of merchantability, fitness for a particular purpose and non-infringement. If your local laws give you any implied warranties, guarantees or conditions, despite this exclusion, your remedies are described in the Remedy for Breach of Warranty clause above, to the extent permitted by your local laws.
+H.	LIMITATION ON AND EXCLUSION OF DAMAGES FOR BREACH OF WARRANTY. The Limitation on and Exclusion of Damages clause above applies to breaches of this limited warranty.
+This warranty gives you specific legal rights, and you may also have other rights which vary from state to state. You may also have other rights which vary from country to country.
+EULAID:Win7SP1_RM.2_PRO_RTL_en-us
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Microsoft DreamSpark License:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MICROSOFT DREAMSPARK DIRECT
+SUBSCRIPTION AGREEMENT
+
+Last updated: June 2013
+ 
+This is a subscription agreement (“agreement”) between Microsoft Corporation (or based on where you live, one of its affiliates) and you for the Microsoft DreamSpark Direct student offering (“DreamSpark Direct Subscription”). Please read it. For purposes of this agreement, the term “software” applies to the software provided to you under the DreamSpark Direct Subscription, which includes the media on which you received it, if any.
+ 
+
+1.    DEFINITION OF YOU OR YOUR. "You", “your” or “student” means a person currently enrolled in and attending courses that lead to academic credit or certification through an accredited educational institution.
+
+2.    TERMS FOR DREAMSPARK DIRECT SUBSCRIPTION.
+
+a.    DreamSpark Direct Subscription. Subject to the terms of this agreement, the DreamSpark Direct Subscription provides a subscription to access software. Microsoft may change the software or other offerings that it makes available under the DreamSpark Direct Subscription at any time without prior notice to you.
+
+b.    End of Student Status. The DreamSpark Direct Subscription is a special offering for students. Once you no longer qualify for the DreamSpark Direct Subscription (due to graduation or otherwise no longer meeting the definition of "you" above), your DreamSpark Direct Subscription will terminate; however, you may continue to use the software you obtained prior to termination of your student status subject to the terms of this agreement.
+
+c.   Termination. Microsoft may terminate the entire DreamSpark program or your specific DreamSpark Direct Subscription at any time without prior notice to you for any reason or no reason.
+
+3.    DREAMSPARK DIRECT SUBSCRIPTION RIGHTS.
+
+a.  DreamSpark Direct Subscription Software. Your use of the software is subject to the license terms provided with the software, such as click-through license terms, except for any changes to those terms that are provided in this agreement.
+
+b.  Installation and Use Rights. You may install and use two (2) copies of the DreamSpark Direct Subscription software on your devices (a) to support your education; (b) in non-commercial research; or (c) to design, develop, test, and demonstrate software programs for the above purposes. The DreamSpark Direct Subscription and software are personal to you and may not be shared, transferred, resold, assigned or used to develop or maintain your own administrative or IT systems.
+
+c.  Using Windows Desktop Operating Systems.  Your DreamSpark Direct Subscription includes certain Windows operating system products. You may install these products only on a computer that is already licensed to run a full version of a Windows operating system on it, as evidenced by a valid Certificate of Authenticity (COA) for a Windows operating system affixed to the computer.
+
+d.   No commercial use. Except as provided below, you may not use the DreamSpark Direct Subscription software for commercial purposes or commercial software application development, publication or distribution unless you first purchase the appropriate commercial license(s) for the software.
+
+Windows Phone Application Requirements. To commercially publish and distribute a phone-based software application that you developed using the DreamSpark Subscription software, the application must be submitted through the Windows Phone Dev Center (https://dev.windowsphone.com/) for publication in the Windows Phone Store and comply with all applicable Windows Phone Store Application Provider requirements.
+
+Windows Application Requirements. To commercially publish and distribute a computer-based software application that you developed using the DreamSpark Subscription software, the application must be published in the Windows Store and comply with all applicable Windows Store Application Developer requirements.
+
+Xbox LIVE Indie Games Development Requirements. To commercially publish and distribute a console-based game or software application that you developed using the DreamSpark Subscription software, the application must be published to Xbox LIVE Indie Games and comply with all applicable Xbox LIVE Indie Games development requirements.
+
+             Visit the DreamSpark App Developer portal at https://www.dreamspark.com/Student/App-Development.aspx.
+ 
+
+4.    PARENTAL OR LEGAL GUARDIAN CONSENT.  If you are under eighteen (18) years of age, your parent or legal guardian must provide verifiable consent before you may create a DreamSpark.com account or access any software through the DreamSpark Direct Subscription. If your parent or legal guardian does not provide their consent to the Microsoft DreamSpark student support team, you may not accept the terms of this agreement and the DreamSpark Direct Subscription will not be made available to you until such consent is given.
+
+5.    NOT FOR RESALE SOFTWARE. You may not resell the software provided as part of the DreamSpark Direct Subscription.
+
+6.    SUPPORT SERVICES. Software and other services provided under the DreamSpark Direct Subscription are provided “as is,” we do not provide support services for them.
+
+7.    ENTIRE AGREEMENT. This agreement, and the terms for software, supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+
+8.    APPLICABLE LAW.
+
+a.  United States. If you acquired the DreamSpark Direct Subscription in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles. The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+
+b.  Outside the United States. If you live in any other country, the laws of that country apply.
+
+9.    LEGAL EFFECT. This agreement describes certain legal rights. You may have other rights under the laws of your country. This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+
+10.   DISCLAIMER OF WARRANTY. The DreamSpark Direct Subscription is provided “as-is.” You bear the risk of using/participating in it. Microsoft gives no express warranties, guarantees or conditions. You may have additional consumer rights under your local laws which this agreement cannot change. To the extent permitted under your local laws, Microsoft excludes the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
+
+11.   LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. You can recover from Microsoft and its suppliers only direct damages up to U.S. $5.00. You cannot recover any other damages, including consequential, lost profits, special, indirect or incidental damages.
+
+        This limitation applies to
+
+anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+
+claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+
+        It also applies even if Microsoft knew or should have known about the possibility of the damages. The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+ 
+For questions about DreamSpark and/or the DreamSpark Direct Subscription, please see https://www.dreamspark.com/Student/Support.aspx
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MATLAB(R) Compiler Runtime (MCR) License: Version-7.10
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The MathWorks, Inc.
+Software License Agreement 
+
+
+IMPORTANT NOTICE
+
+READ THE TERMS AND CONDITIONS OF YOUR LICENSE AGREEMENT CAREFULLY BEFORE 
+COPYING, INSTALLING, OR USING THE PROGRAMS OR DOCUMENTATION.
+
+THE LICENSE AGREEMENT TOGETHER WITH ANY APPLICABLE ADDENDUM REPRESENTS 
+THE ENTIRE AGREEMENT BETWEEN YOU (THE "LICENSEE") AND THE MATHWORKS, INC. 
+("MATHWORKS") CONCERNING THE PROGRAM(S) AND DOCUMENTATION.
+
+BY COPYING, INSTALLING, OR USING THE PROGRAMS AND DOCUMENTATION, YOU 
+ACCEPT THE TERMS OF THIS AGREEMENT.  IF YOU ARE NOT WILLING TO DO SO, DO NOT 
+COPY, INSTALL, OR USE THE PROGRAMS AND DOCUMENTATION. 
+
+_________________________________________________________________
+
+The MathWorks, Inc. Software License Agreement
+
+Installation and Use Addendum (if applicable)
+
+Academic Installation and Use Addendum (if applicable)
+
+Student Version Installation and Use Addendum (if applicable)
+
+Deployment Addendum 
+
+
+
+The MathWorks, Inc. Software License Agreement
+
+
+1. DEFINITIONS. 
+
+  1.1. "Licensee" means you, whether an individual or an entity, to whom
+        MathWorks grants the License, and who is responsible for complying
+        with the contractual obligations of the License, and ensuring that
+        anyone permitted access to the Programs also complies with such
+        obligations.
+  
+  1.2. "Affiliate" means a legal entity which is controlled by, or controls,
+        or is under common control with Licensee.  Control means (i)
+        beneficial ownership of at least fifty percent (50%) of the voting
+        securities of a corporation or other business organization with voting
+        securities, or (ii) a fifty percent (50%) or greater interest in the
+        profits and capital of a partnership or other business organization
+        without voting securities.
+  
+  1.3. "Computer" means a single physical hardware system containing a maximum
+       of four (4) Processors.  Each hardware partition, or blade in a blade
+       server, is considered to be a separate Computer, and a hardware system
+       with more than four (4) Processors is considered to be more than one
+       Computer.   
+  
+  1.4. "Documentation" means the user guides, if any, accompanying delivery of
+       a Program, as may be updated from time to time.  Documentation may be
+       delivered in any medium or language.
+  
+  1.5. "Internal Operations" means the use of a Program by employees,
+       consultants, student interns, and software administration contractors
+       of Licensee or an Affiliate on behalf of the Licensee or Affiliate.  
+  
+  1.6. "Licensed User" means an individual authorized by the Licensee to use
+       the Programs for Licensee's Internal Operations, to the extent
+       permitted by the License Option acquired.
+  
+  1.7. "License Option" means the specific rights, restrictions, and
+       obligations under which Licensee may install and use a Program pursuant
+       to this Agreement, including those related to the permitted Activation
+       Type associated with the License Option acquired, as described in the
+       applicable Installation and Use Addendum, and including restrictions
+       associated with the License being an "Annual License," "Term License,"
+       "Perpetual License," or "Student License" as described under Article 9.
+  
+  1.8. "Licensor" means the person who, or entity which, grants a license to
+       MathWorks to redistribute that person's or entity's intellectual
+       property.
+  
+  1.9. "PolySpace Products" means PolySpace Client for C/C++, PolySpace Client
+       for Ada, PolySpace Server for C/C++, PolySpace Server for Ada,
+       PolySpace Model Link SL, PolySpace Model Link TL, and PolySpace UML
+       Link RH. 
+  
+  1.10. "Processor" means a single integrated circuit on the motherboard of a
+        Computer that contains one or more cores which are used for
+        interpreting software instructions and processing data contained in
+        software programs. 
+  
+  1.11. "Program" means the software licensed hereunder, including
+        Documentation, enhancements and error corrections.  Each product
+        licensed hereunder is a separate Program.  "Ineligible Program" is any
+        Program that Licensee may not deploy, compile, distribute, call from a
+        web application, or use with the MATLAB Distributed Computing Server,
+        as the case may be.  A current list of each Ineligible Program is
+        available at www.mathworks.com/ineligible_programs.  
+ 
+  1.12. "Third Party" means any person or legal entity that is not MathWorks,
+        the Licensee, or an Affiliate. 
+
+2. ACCEPTANCE AND REFUNDS.  If Licensee does not accept the terms and
+   conditions of this License and any applicable Addendum, or if Licensee
+   terminates this License, for any reason, within thirty (30) days of
+   Program delivery (the "Acceptance Period"), then Licensee shall
+   immediately return the Programs licensed hereunder to MathWorks or the
+   authorized distributor from whom Licensee acquired the Programs and, if
+   returned within the Acceptance Period, shall receive a full refund.  By
+   retaining a Program throughout the Acceptance Period, Licensee accepts
+   the applicable rights, and agrees to be bound by the applicable
+   obligations and restrictions, of this Agreement including the License
+   Option acquired with respect to that Program.
+
+3. LICENSE GRANT.  MathWorks hereby grants to Licensee, subject to the terms
+   of this Agreement, a nonexclusive license (the "License") to:
+
+  3.1. install and use the Programs solely on Computers controlled by
+       Licensee, in accordance with the License Option acquired and associated
+       permitted Activation Type provisions contained in the relevant
+       Installation and Use Addendum, and solely for Internal Operations; 
+
+  3.2. provide access to online Documentation on Licensee's intranet, provided
+       it is not accessible over the open Internet; 
+  
+  3.3. print portions of the online Documentation for reasonable use by
+       Licensed Users; and 
+  
+  3.4. use the Programs as expressly set forth in the Deployment Addendum.
+
+4. LICENSE RESTRICTIONS.  The License is subject to the express restrictions
+   set forth below.  Licensee shall not, and shall not permit any Third
+   Party to:
+
+  4.1. modify, or create any derivative work of, a Program or any part of the
+       licensed Programs, except as expressly permitted in Article 7 and the
+       Deployment Addendum.  Notwithstanding anything to the contrary
+       contained herein, any such permitted modifications must be consistent
+       with all other terms of this Agreement;  
+  
+  4.2. adapt, translate, copy, or convert all or any part of a Program in
+       order to create software, a principal purpose of which is to perform
+       the same or similar functions as Programs licensed by MathWorks or to
+       replace any component of the Programs; 
+  
+  4.3. rent, lease, or loan the Programs; use the Programs for supporting
+       Third Parties' use of the Programs, time share the Programs, or provide
+       service bureau or similar service use; 
+  
+  4.4. disassemble, decompile, reverse engineer the Programs or otherwise
+       attempt to gain access to its method of operation or source code (other
+       than files provided for convenience in source code form by MathWorks); 
+  
+  4.5. sell, license, sublicense, publish, display, distribute, disseminate,
+       assign, or otherwise transfer (whether by sale, exchange, lease, gift,
+       or otherwise) to a Third Party the Programs, any copy or portion
+       thereof, or any License or other rights thereto, in whole or in part,
+       without MathWorks' prior written consent, except as expressly permitted
+       in the Deployment Addendum; 
+  
+  4.6. alter, remove, or obscure any copyright, trade secret, patent,
+       trademark, logo, proprietary and/or other legal notices on or in copies
+       of the Programs;
+
+  4.7. use MathWorks' name, trade names, logos, or other trademarks of
+       MathWorks or any of its Affiliates or Licensors in any advertising,
+       promotional literature or any other material, whether in written,
+       electronic, or other form, distributed to any Third Party, except in
+       the form provided by MathWorks, and then solely for purposes of
+       identifying MathWorks' Programs;
+  
+  4.8. provide access (directly or indirectly) to the Programs via a web or
+       network Application, except as permitted in Article 8 of the Deployment
+       Addendum;  
+
+  4.9. copy, make available for copy, or otherwise reproduce the Programs, in
+       whole or in part, except either (a) as may be required for their
+       installation into Computer memory for the purpose of executing the
+       Program in accordance with the License Option and associated permitted
+       Activation Type, (b) as expressly permitted in the Deployment Addendum,
+       or (c) to make a reasonable number of copies solely for back-up
+       purposes provided that any such permitted copies shall reproduce all
+       copyright, trade secret, patent, logo, proprietary and/or other legal
+       notices contained in the original copy obtained from MathWorks; 
+
+  4.10. access or use Programs that Licensee is not currently licensed to
+        access or to use; 
+  
+  4.11. disclose the activation key and/or license file to a Third Party or
+        allow them to be used except for installation and use of the Programs
+        as provided herein;
+  
+  4.12. republish the Documentation, except as expressly permitted in Article
+        3; and/or
+  
+  4.13. create a server, for code generation, compilation, or other Programs.
+
+5. ADDITIONAL FEES.  The fees for the License granted herein are determined
+   based upon Licensee's installation and use of the Programs in the country
+   in which the original delivery of the Programs occurs.  MathWorks may
+   charge Licensee an additional fee for any subsequent installation and use
+   of the Programs licensed hereunder in any other country.
+
+6. RETENTION OF RIGHT, TITLE AND INTEREST BY MATHWORKS AND ITS LICENSORS.
+   The Programs shall at all times remain the property of MathWorks and/or
+   MathWorks' Licensors and Licensee shall have no right, title, or interest
+   therein, except as expressly set forth in this Agreement.  Licensee shall
+   take appropriate action by instruction, agreement, or otherwise with any
+   persons permitted access to the Programs, so as to enable Licensee to
+   satisfy its obligations under the terms of this Agreement.
+
+7. LICENSES FOR THIRD PARTY SOFTWARE AND PRODUCTS.  MathWorks has been
+   granted licenses to distribute certain Third Party software either as
+   part of a Program or, in the case of the PolySpace Products, as separate
+   products licensed under a separate license agreement.  These licenses
+   require MathWorks to distribute the software, or the PolySpace Products,
+   as the case may be, to Licensee subject to specific terms and conditions,
+   which may be different from or additional to those contained herein.
+   Should such Third Party software be provided under the Lesser General
+   Public License, Licensee may make modifications of the work identified in
+   Section 6 of the Lesser General Public License for Licensee's own use and
+   reverse engineering for debugging such modifications.  Licensee agrees
+   that acceptance of this Agreement also confirms Licensee's acceptance of
+   any applicable Third Party software licenses.  Such Third Party licenses
+   may be viewed at www.mathworks.com/thirdpartylicense.  Licensee may also
+   contact MathWorks to obtain the current applicable provisions.  
+
+8. SOFTWARE MAINTENANCE SERVICE. During any paid Software Maintenance
+   Service term, if applicable, MathWorks shall provide Software Maintenance
+   Service for the licensed Programs which consists of:  delivering
+   subsequent releases of the Programs, if any, that are not charged for
+   separately; exerting reasonable efforts to both (a) provide, within a
+   reasonable time, workarounds for any material programming errors in the
+   current release of the Programs that are directly attributable to
+   MathWorks, and (b) correct such errors in the next available release,
+   provided Licensee provides MathWorks with sufficient information to
+   identify the errors.  During this same paid Software Maintenance Service
+   term, Licensee shall also be entitled to receive technical support for
+   the current release.  Technical support means assistance by telephone and
+   electronic mail with the installation and/or use of the then- current
+   release of the licensed Programs, including all available bug fixes and
+   patches, and their interaction with supported hardware and operating
+   systems ("Platforms").  MathWorks reserves the option to discontinue, in
+   whole or in part, and at any time, offering Software Maintenance Service
+   and/or technical support for any Program or Platform.
+
+9. LICENSE DURATION ("TERM").  This Agreement shall continue until the
+   earlier of (a) termination by MathWorks or Licensee as provided below, or
+   (b) such time as there are no Programs being licensed to Licensee
+   hereunder.  
+
+  9.1. For Annual Licenses:  Licensee understands and agrees that each Annual
+       License will expire automatically immediately after its corresponding
+       one (1) year period, unless Licensee renews its License by remitting
+       the then-current annual License fee.  Licensee understands that the
+       Programs will stop operating unless Licensee pays the License fee and
+       is provided new annual passcodes.   Licensee understands and agrees
+       that the Software Maintenance Service for each Annual License will
+       terminate automatically upon expiration of the Annual License Term. 
+  
+  9.2. For Term Licenses:  Licensee understands and agrees that each Term
+       License will expire automatically immediately after the corresponding
+       period of the term licensed, unless Licensee renews its License by
+       remitting the then-current term License Fee.  Licensee understands that
+       the Programs will stop operating unless Licensee pays the license fee
+       and is provided new term passcodes.  Licensee understands and agrees
+       that the Software Maintenance Service for each Term License will
+       terminate automatically upon expiration of the License Term. 
+  
+  9.3. For Perpetual Licenses:  Licensee shall have the right to use the
+       Programs indefinitely, subject to the termination provisions in this
+       Agreement.  Licensee understands and agrees that the Software
+       Maintenance Service for each Perpetual License will terminate
+       automatically upon expiration of the initial Software Maintenance
+       Service term included with the acquisition of the License.  Thereafter,
+       the Software Maintenance Service term may be renewed for any Program,
+       at the then-current price, and for the then-applicable term, as long as
+       MathWorks offers such Software Maintenance Service for such Program.
+  
+  9.4. For Student Licenses:  See the Student Version Installation and Use
+       Addendum for the License Term. 
+
+10. TERMINATION.  MathWorks may terminate this Agreement and all Licenses
+    granted hereunder by written notice to Licensee if Licensee breaches any
+    material term of this License, including failure to pay any License fees
+    due, and Licensee has not cured such breach within sixty (60) days of
+    written notification.  MathWorks may immediately terminate upon notice
+    this Agreement and all Licenses granted hereunder should Licensee breach
+    the terms and conditions of Articles 3, 4, and/or 11.  Licensee may
+    terminate this License at any time, for any reason.  Licensee shall not
+    be entitled to any refund if this License is terminated, except for
+    License fees paid for any Programs for which the Acceptance Period has
+    not expired at the time of termination.  Upon termination, Licensee
+    shall promptly return all but archival copies of the Programs in
+    Licensee's possession or control, or promptly provide written
+    certification of their destruction.
+
+11. EXPORT CONTROL.  The Programs may be subject to U.S. export control laws
+    or other (U.S. and non-U.S.) governmental export and import laws and
+    regulations.  Notwithstanding any other term of this Agreement or Third
+    Party agreement, Licensee's rights under this Agreement may not be
+    exercised by Licensee or any Third Party in violation of such laws and
+    regulations, nor may this Agreement be transferred to any party where
+    doing so would result in such a violation.  The terms of any limitation
+    on the use, transfer or re-export of the Programs imposed by MathWorks
+    in any Destination Control Statement or other document for the purpose
+    of export control shall prevail over any term in this Agreement.  It
+    shall be Licensee's responsibility to comply with the latest United
+    States or other governmental export and import regulations.
+
+12. FEDERAL ACQUISITION.  This provision applies to all acquisitions of the
+    Programs and Documentation by, for, or through the federal government of
+    the United States.  By accepting delivery of the Programs or
+    Documentation, the government hereby agrees that this software or
+    documentation qualifies as commercial computer software or commercial
+    computer software documentation as such terms are used or defined in FAR
+    12.212, DFARS Part 227.72, and DFARS 252.227-7014.  Accordingly, the
+    terms and conditions of this Agreement and only those rights specified
+    in this Agreement, shall pertain to and govern the use, modification,
+    reproduction, release, performance, display, and disclosure of the
+    Programs and Documentation by the federal government (or other entity
+    acquiring for or through the federal government) and shall supersede any
+    conflicting contractual terms or conditions.  If this License fails to
+    meet the government's needs or is inconsistent in any respect with
+    federal procurement law, the government agrees to return the Programs
+    and Documentation, unused, to MathWorks. 
+
+13. FOR EUROPEAN UNION LICENSEES ONLY.  Any contractual provisions of this
+    Agreement contrary to laws implemented under Article 6 of Appendix V of
+    the European Union Software Directive or to the exceptions provided for
+    in Article 5(2) and (3) of such Appendix shall be null and void solely
+    to the extent decompiling, disassembling, or otherwise
+    reverse-engineering of the Programs is necessary to enable the Licensee
+    to create an independent program that is interoperable with the Programs
+    or any other permitted objectives specified by such laws implemented
+    under such directive (collectively, the "Permitted Objectives"),
+    provided that any such information gained is used solely for such
+    Permitted Objectives. 
+
+14. TAXES, DUTIES, CUSTOMS.  Absent appropriate exemption certificates or
+    other conclusive proof of tax exempt status, Licensee shall pay all
+    applicable sales, use, excise, value-added, and other taxes, duties,
+    levies, assessments, and governmental charges payable in connection with
+    this Agreement or the Licenses granted hereunder, excluding taxes based
+    on or measured by MathWorks' income, for which MathWorks shall be solely
+    responsible. 
+
+15. ASSIGNMENT.  Licensee may not assign or otherwise transfer this
+    Agreement and its rights and obligations hereunder, in whole or in part,
+    by operation of law or otherwise, without the written consent of
+    MathWorks.  In the case of any permitted assignment or transfer of or
+    under this Agreement, this Agreement or the relevant provisions shall be
+    binding upon, and inure to the benefit of, the successors, executors,
+    heirs, representatives, administrators and assigns of the parties
+    hereto.  MathWorks may charge Licensee an administrative fee for any
+    permitted assignment.
+
+16. LIMITATION OF LIABILITY.  The Programs should not be relied on as the
+    sole basis to solve a problem or implement a design whose incorrect
+    solution or implementation could result in injury to person or property.
+    If a Program is employed in such a manner, it is at the Licensee's own
+    risk and MathWorks and its Licensors explicitly disclaim all liability
+    for such misuse to the extent allowed by law.  MathWorks' and MathWorks'
+    Licensors' liability for death or personal injury resulting from
+    negligence or for any other matter in relation to which liability by law
+    cannot be excluded or limited shall not be excluded or limited.  Except
+    as aforesaid, (a) any other liability of MathWorks and its Licensors
+    (whether in relation to breach of contract, negligence or otherwise)
+    shall not in total exceed the amount paid to MathWorks under this
+    Agreement in the twelve month period preceding the claim in question,
+    for the Program with respect to which the liability in question arises;
+    and (b) MathWorks and its Licensors shall have no liability for any
+    indirect or consequential loss (whether foreseeable or otherwise and
+    including loss of profits, loss of business, loss of opportunity, and
+    loss of use of any computer hardware or software).  Some states do not
+    allow the exclusion or limitation of incidental or consequential
+    damages, so the above exclusion or limitation may not apply to Licensee. 
+
+17. LIMITED WARRANTY/LIMITATION OF REMEDIES.  MathWorks warrants that
+    MathWorks, on its own behalf or through its Licensors, has the right to
+    grant the License rights hereunder.  MathWorks warrants that the
+    physical media provided shall be free from defects in material and
+    workmanship for a period of ninety (90) days from delivery, or it will
+    be replaced by MathWorks at no cost to Licensee.  MathWorks further
+    warrants, for a period of one (1) year from delivery or for the term of
+    the License, whichever is less, that each copy of each Program will
+    conform in all material respects to the description of such Program's
+    operation in the Documentation.  In the event that a Program does not
+    operate as warranted, Licensee's exclusive remedy and MathWorks' sole
+    liability under this warranty shall be the correction or workaround by
+    MathWorks of major defects within a reasonable time.  Should such
+    correction or workaround be impractical, MathWorks may, at its option,
+    terminate the relevant License and refund the initial License fee paid
+    to MathWorks for such Program.  All requests for warranty assistance
+    should be directed to The MathWorks, Inc., 3 Apple Hill Drive, Natick,
+    MA 01760-2098, U.S.A.
+
+18. DISCLAIMER OF WARRANTIES.  Except for warranties expressly set forth in
+    Article 17 of this Agreement (or as implied by law where the law
+    provides that the particular terms implied cannot be excluded by
+    contract), any and all Programs, Documentation, and Software Maintenance
+    Services are delivered "as is" and MathWorks makes and the Licensee
+    receives no additional express or implied warranties.  MathWorks and its
+    Licensors hereby expressly disclaim any and all other conditions,
+    warranties, or other terms of any kind or nature concerning the
+    Programs, Documentation, and Software Maintenance Services (including,
+    without limitation, any with regard to infringement, merchantability,
+    quality, accuracy, or fitness for a particular purpose or Licensee's
+    purpose).  MathWorks also expressly disclaims any warranties that may be
+    implied from usage of trade, course of dealing, or course of
+    performance.  Except for the express warranties stated in Article 17 of
+    this Agreement, the Programs, Documentation, and Software Maintenance
+    Services are provided with all faults, and the entire risk of
+    satisfactory quality, performance, accuracy, and effort is with
+    Licensee.  MathWorks does not warrant that the Programs and
+    Documentation will operate without interruption or be error free.  Some
+    states and countries do not allow limitations on how long an implied
+    warranty lasts, so the above limitation may not apply to Licensee.  The
+    warranty in Article 17 gives Licensee specific legal rights and Licensee
+    may also have other rights which vary from state to state and country to
+    country.  Licensee accepts responsibility for its use of the Programs
+    and the results obtained therefrom.
+
+19. GOVERNING LAW; JURISDICTION.  This Agreement shall be interpreted,
+    enforced and construed and the rights of the parties hereunder governed
+    in all respects by the laws of the Commonwealth of Massachusetts, United
+    States of America, without regard to its conflicts of law provisions,
+    and both parties consent to the jurisdiction of the federal and state
+    courts located in said Commonwealth and consent to the service of
+    process, pleadings and notices in connection with any and all actions
+    initiated in such courts.  The parties agree that a final judgment in
+    any such action or proceeding shall be conclusive and binding and may be
+    enforced in any other jurisdiction.  To the extent any governing law,
+    treaty, or regulation is in conflict with this Agreement, the
+    conflicting terms of this Agreement shall be superseded only to the
+    extent necessary by such law, treaty, or regulation.  If any provision
+    of this Agreement shall be otherwise unlawful, void, or otherwise
+    unenforceable, that provision shall be enforced to the maximum extent
+    permissible.  In either case, the remainder of this Agreement shall not
+    be affected.  The parties agree that the U.N. Convention on Contracts
+    for the International Sale of Goods shall not apply to this Agreement.
+    The parties further agree that the Uniform Computer Information
+    Transactions Act, or any version thereof, adopted by any state, in any
+    form ("UCITA"), shall not apply to this Agreement.  To the extent that
+    UCITA is applicable, the parties agree to opt out of the applicability
+    of UCITA pursuant to the Opt-Out provision(s) contained therein. 
+
+20. COMPLIANCE AND AUDIT RIGHTS.  Licensee agrees to notify MathWorks
+    promptly upon discovery of any failure to comply with one or more
+    Licenses granted under this Agreement, or any failure to comply with any
+    other material term of this Agreement.  To confirm Licensee's compliance
+    with the terms and conditions of this Agreement, Licensee agrees to
+    allow MathWorks to audit Licensee's use of the Programs, and to provide
+    MathWorks access to Licensee's facilities and computers, and cooperation
+    from Licensee's employees and consultants, as reasonably requested by
+    MathWorks in order to perform such audit, all during normal business
+    hours, and after reasonable prior notice from MathWorks.  If an audit
+    discloses that Licensee has failed to comply with one or more Licenses,
+    and such failure to comply could have in part or in whole been avoided
+    by Licensee having paid additional License fees to expand the scope of
+    the License or Licenses, then Licensee shall promptly pay MathWorks such
+    Licensing fees (at MathWorks' then current rates) and, if such unpaid
+    License fees exceed 5% of the License fees paid to MathWorks for the
+    applicable Programs during the applicable period during which such
+    underpayment occurred, then Licensee shall, in addition to paying the
+    unpaid License fees, also reimburse MathWorks the full cost of such
+    audit.
+
+21. LICENSE MANAGEMENT.  The Programs contain technology for the prevention
+    of unlicensed use.  The Programs require activation to exercise your
+    rights under this Agreement.  You may also need to activate if you
+    redesignate the Programs on your License or modify your hardware.
+
+    Activation associates the use of the Programs with a specific Computer,
+    and in some cases the Licensed User.  During activation, data about the
+    Programs and the Computer will be transmitted to MathWorks.  This data
+    includes the License information, Computer identification, and location.
+    Some License Options may require the MathWorks Account information and
+    the operating system user name for the Licensed User.  A License file
+    will be provided to complete activation.  
+
+22. HEADINGS.  The inclusion of headings is for convenience of reference
+    only and shall not affect the construction or interpretation of this
+    Agreement.
+
+23. ENTIRE AGREEMENT.  This Agreement, and any applicable Addendum thereto
+    including any documents referenced therein are incorporated herein by
+    reference, and contain the entire understanding of the parties and may
+    not be modified or amended except by written instrument, executed by
+    authorized representatives of MathWorks and Licensee.  In the event of
+    any conflict between this Agreement and any purchase order executed by
+    Licensee (whether executed before or after this Agreement), this
+    Agreement shall prevail.
+ 
+
+
+The MathWorks, Inc. Software License Agreement - Installation and Use
+Addendum
+
+This is an Addendum to The MathWorks, Inc. Software License Agreement (the
+"Agreement"), and the terms and conditions of this Addendum are incorporated
+therein.  Each capitalized term used herein and not defined herein shall
+have the meaning ascribed to it in the Agreement. 
+
+1. SCOPE.  The Installation and Use provisions of this Addendum apply to
+   each Program licensed under the Agreement.  The applicable provisions are
+   determined by the particular License Option that Licensee acquired,
+   including those related to the permitted Activation Type associated with
+   the License Option acquired.  
+
+2. DEFINITIONS.
+
+  2.1. Activation Type.   One of the Standalone Named User, Designated
+       Computer, Network Named User, or Network Concurrent User Activation
+       Types available with respect to the License Option acquired.
+
+ 2.2. License Manager.  The FLEXnet license management software provided
+       with the Program(s).    
+
+  2.3. Licensed User.  An individual authorized by the Licensee to use the
+       Programs for Licensee's Internal Operations, to the extent permitted
+       by the License Option acquired. 
+
+  2.4. License Option.  The specific rights, restrictions, and obligations
+       under which Licensee may install and use a Program pursuant to the
+       Agreement, including those related to the permitted Activation Type
+       associated with the License Option acquired.
+
+  2.5. Named User.  A Licensed User designated and identified by Licensee
+       as the "Named User" for a License to a Program under either the
+       "Standalone Named User" or "Network Named User" Activation Type.
+
+3. INSTALLATION AND USE.  Specific rights, obligations, and restrictions
+   apply to each License Option.  Licensee's right to install and use the
+   Programs is determined by the License Option acquired, including the
+   permitted Activation Type with respect to such License Option.  By
+   accepting the terms and conditions of the Agreement, Licensee also
+   accepts the License Option acquired.    
+
+  3.1. License Options. 
+
+    3.1.1. Individual.  Except as specifically set forth in Section 3.3
+           hereof, the Individual License Option permits one Activation Type,
+           either the Standalone Named User Activation Type or the Designated
+           Computer Activation Type.  
+
+    3.1.2. Network Named User.  Except as specifically set forth in Section
+           3.3 hereof, the Network Named User License Option permits only the
+           Network Named User Activation Type.  
+
+    3.1.3. Concurrent.  Except as specifically set forth in Section 3.3
+           hereof, the Concurrent License Option permits only the Network
+           Concurrent User Activation Type.
+
+  3.2. Activation Types.
+
+    3.2.1. Standalone Named User.  Program use is restricted to the single,
+           designated Named User.  Programs may be installed and operated on
+           one or more individual Computers, provided the Programs are only
+           accessible to, and operated by, the Named User for that License.
+           The physical locations of the Computers used by the Named User to
+           run the Programs are not limited; the Computers may be located at
+           work, home, in a laboratory, or on a laptop.  Licensee may only
+           designate one Licensed User access to or use of the Programs
+           under each Named User License.  A Computer login of a Named User
+           may not be shared with any other individual.  Licensee may
+           redesignate the Named User for a Program, whether temporarily or
+           not, no more than four (4) times in any twelve (12) month period.
+           A Named User may not use a Program on more than two (2) Computers
+           simultaneously.  In the case of Standalone Named User Licenses
+           licensed as part of a group, Licensee shall be responsible for,
+           and shall assign a central administrator the task of,
+           administering the Licenses and installing the Programs, including
+           new versions of the Programs delivered during any paid Software
+           Maintenance Service term. 
+
+    3.2.2. Designated Computer. The Programs may only be installed and
+           operated on a single, designated Computer, provided the Computer
+           is not a network server, and the Programs are only operated from
+           that Computer's console by only one Licensed User at any given
+           time.  Licensee may redesignate the Computer for a Program to a
+           different Computer, whether temporarily or not, no more than four
+           (4) times in any twelve (12) month period.  In the case of
+           Designated Computer Licenses licensed as part of a group,
+           Licensee shall be responsible for, and shall assign a central
+           administrator the task of, administering the Licenses and
+           installing the Programs, including new versions of the Programs
+           delivered during any paid Software Maintenance Service term.   
+
+    3.2.3. Network Named User.  Programs may only be installed in a central
+           location on a single designated network server.  Licensee must
+           run the License Manager in its User-Based mode, and edit the
+           Local License Options file to maintain a list of Named Users
+           authorized to access and operate each Program. Licensee may
+           re-edit the list of Named Users in the Local License Options file
+           and may redesignate Named Users for a Program, whether
+           temporarily or not, no more than four (4) times in any twelve
+           (12) month period, provided the number of Named Users in the file
+           never exceeds the number licensed per Program.  Portions of the
+           Programs may be installed on individual Computers to accelerate
+           startup times, as long as the installations on the individual
+           Computers are controlled by the License Manager on the network
+           server.  A Named User may not use a Program on more than two (2)
+           Computers simultaneously.  A Computer login of a Named User may
+           not be shared with any other individual.
+
+    3.2.4. Network Concurrent User.  The Programs may only be installed in a
+           central location on a single designated network server. Licensee
+           must run the License Manager in its Concurrent mode and may have
+           only as many Licensed Users simultaneously operating a Program at
+           any given time as the number of Concurrent keys acquired for that
+           Program.  Subject to the foregoing, a Licensed User of the
+           Concurrent License Option may utilize the Programs on any number
+           of Computers served by a single License Manager provided that,
+           before using a Program on any Computer, the Licensed User checks
+           out a separate Concurrent key from the License Manager for that
+           Computer.  Portions of the Programs may be installed on
+           individual Computers to accelerate startup times, as long as the
+           installations on the individual Computers are controlled by the
+           License Manager on the network server.  Licensees of the
+           Concurrent License Option are prohibited from providing Program
+           access to users located outside the country in which the License
+           Manager server is installed unless Licensee has contracted for
+           global use.  For the purposes of the Concurrent License Option,
+           all servers located in a member country of the North American
+           Free Trade Agreement ("NAFTA") shall be considered located in the
+           same country as those of the other NAFTA members, and all servers
+           located in Iceland, Norway, Switzerland, or any member country of
+           the European Union ("EU") shall be considered located in the same
+           country.   
+
+  3.3 MATLAB Distributed Computing Server.  Licensees of the MATLAB
+      Distributed Computing Server Program ("MDCS") are permitted to install
+      and make available Programs, other than any Ineligible Program, on one
+      or more  Computers ("Computer Cluster")  solely for use  through the
+      MDCS, provided that (1) the Programs on the Computer Cluster are
+      controlled by a single License Manager on a single designated network
+      server for each MDCS, (2) the number of simultaneous Program sessions
+      does not exceed the number of MDCS workers acquired, (3) access to any
+      Program, whether in the MDCS or otherwise, remains limited to those
+      persons who are Licensed Users of such Programs and the Parallel
+      Computing Toolbox; and 4) access to any Program, including the MDCS,
+      is not made available (i) to any Third Party without the advance
+      written consent of MathWorks, or (ii) to any user outside the country
+      in which the MDCS' License Manager server is installed, unless the
+      Licensee has contracted for global use.  For the purposes of this
+      Section 3.3, all MDCS License Manager servers located in a member
+      country of the North American Free Trade Agreement ("NAFTA") shall be
+      considered located in the same country as those of the other NAFTA
+      members, and all MDCS License Manager servers located in Iceland,
+      Norway, Switzerland, or any member country of the European Union
+      ("EU") shall be considered located in the same country. 
+
+4. REMOTE AND SHARED OPERATION.   
+
+    Subject also to the foregoing:
+
+  4.1. Remote Access to the Desktop:  Using the Microsoft Remote Desktop
+       connection feature or similar technologies:
+
+    4.1.1. Named Users and Network Named Users may remotely access Programs
+           for which they are licensed. 
+
+    4.1.2. Network Concurrent Users may remotely access Programs served by
+           the License Manager server for the License under which they are
+           operating.
+
+    4.1.3. The Licensee of a Designated Computer Activation Type may
+           designate one Licensed User to remotely access the Programs
+           licensed on the Designated Computer for operation on that
+           Designated Computer.  Licensee may redesignate such Licensed
+           User, whether temporarily or not, no more than four (4) times in
+           any twelve (12) month period.   
+
+  4.2. Shared Access to the Desktop: 
+
+    4.2.1. A Licensed User using Microsoft Remote Assistance technology,
+           NetMeeting conferencing software, or similar technologies may
+           share remotely the desktop view of a Program session with another
+           individual for assistive or demonstrative purposes only.
+
+
+
+
+THE MATHWORKS, INC. SOFTWARE LICENSE AGREEMENT - Academic 
+Installation and Use Addendum  
+
+This is an Addendum to The MathWorks, Inc. Software License Agreement (the
+"Agreement"), and the terms and conditions of this Addendum are incorporated
+therein.  Each capitalized term used herein and not defined herein shall
+have the meaning ascribed to it in the Agreement.
+
+1. SCOPE.  The provisions of this Academic Installation and Use Addendum
+   apply to each Program licensed under the Agreement at prices offered only
+   to degree-granting educational institutions ("Academic prices") for
+   Academic Internal Operations only, as defined below.  Research and
+   development divisions and centers of universities, U.S. government
+   agencies and other not-for-profit organizations do not qualify for
+   Academic prices.  This Addendum imposes certain additional obligations
+   and restrictions with respect to the Programs licensed at such Academic
+   prices that are not contained in the Agreement.  The applicable
+   provisions are determined by the particular Academic License Option that
+   Licensee acquires for each Program, including those related to the
+   permitted Activation Type associated with the Academic License Option
+   acquired.  In the event of a conflict between the provisions of this
+   Addendum and the Agreement, these Addendum provisions shall apply.
+
+2. DEFINITIONS.
+
+  2.1. Academic Internal Operations.  The installation and use of the
+       Programs by Licensed Users, in accordance with the Academic License
+       Option acquired, for the purpose of (i) in the case of employees
+       (faculty and academic staff), performing software administration,
+       teaching, and noncommercial, academic research in their ordinary
+       course as Licensee's employees; and (ii) in the case of enrolled
+       students, meeting classroom requirements of courses and study offered
+       by the Licensee.  Any other use is expressly prohibited.
+
+  2.2. Activation Type.  One of the Standalone Named User, Designated
+       Computer, or Network Concurrent User Activation Types available with
+       respect to the Academic License Option Acquired.
+
+  2.3. License Manager.  The FLEXnet license management software provided
+       with the Programs.
+
+  2.4. Licensed Users.  All enrolled students and employees (faculty and
+       academic staff) of the Licensee who are authorized by Licensee to use
+       the Programs for Academic Internal Operations in accordance with the
+       Agreement, as revised from time to time, and to the extent permitted
+       by the Academic License Option acquired.  As used herein, "employees"
+       excludes subcontractors and consultants of the Licensee. 
+
+  2.5. Academic License Option.  The specific rights, restrictions, and
+       obligations under which Licensee may install and use a Program
+       pursuant to the Agreement, including those related to the permitted
+       Activation Type associated with the Academic License Option acquired. 
+
+  2.6. Named User.  Licensed User designated and identified by Licensee as
+       the "Named User" for a License to a Program under the "Standalone
+       Named User" Activation Type. 
+
+3. INSTALLATION AND USE.  Specific rights, obligations, and restrictions
+   apply to each Academic License Option.  Licensee's right to install and
+   use the Programs is determined by the Academic License Option acquired,
+   including the permitted Activation Type with respect to such Academic
+   License Option.  By accepting the terms and conditions of the Agreement,
+   Licensee also accepts the Academic License Option acquired, and agrees to
+   use the Programs only for Academic Internal Operations. 
+
+  3.1. Academic License Options.  
+
+    3.1.1. Individual.  Except as specifically set forth in Section 3.3
+           hereof, the Individual License Option permits one Activation
+           Type, either the Standalone Named User Activation Type or the
+           Designated Computer Activation Type.  
+
+    3.1.2. Concurrent.  Except as specifically set forth in Section 3.3, the
+           Concurrent License Option permits only the Network Concurrent
+           User Activation Type.
+
+    3.1.3. Classroom.  Except as specifically set forth in Section 3.3, the
+           Classroom License Option permits one Activation Type, either the
+           Network Concurrent User Activation Type or the Designated
+           Computer Activation Type.  Notwithstanding the foregoing
+           definition of Academic Internal Operations, Programs licensed
+           under the Classroom License Option are further restricted to use
+           in connection with on-campus computing facilities that are used
+           solely in support of classroom instruction of students.  Research
+           use is not permitted.
+  
+  3.2. Activation Types.
+
+    3.2.1. Standalone Named User.  Program use is restricted to the single,
+           designated Named User.  The Programs may be installed and
+           operated on one or more individual Computers, provided the
+           Programs are only accessible to, and operated by, the Named User
+           for that License.  The physical locations of the Computers used
+           by the Named User to run the Programs are not limited; the
+           Computers may be located at work, home, in a laboratory, or on a
+           laptop. A Computer login of a Named User may not be shared with
+           any other individual.  Licensee may redesignate the Named User
+           for a Program, whether temporarily or not, no more than four (4)
+           times in any twelve (12) month period.  At any time, Programs may
+           only be used simultaneously on up to two (2) Computers.   
+
+    3.2.2. Designated Computer.  The Programs may only be installed and
+           operated on a single, designated Computer, provided the Computer
+           is not a network server, and the Programs are only operated from
+           that Computer's console by only one Licensed User at any given
+           time.  Licensee may redesignate the Computer for a Program to a
+           different Computer, whether temporarily or not, no more than four
+           (4) times in any twelve (12) month period.  In the case of
+           Designated Computer Licenses licensed as part of a group,
+           Licensee shall be responsible for, and shall assign a central
+           administrator the task of, administering the Licenses and
+           installing the Programs, including new versions of the Programs
+           delivered during any paid Software Maintenance Service term. 
+
+    3.2.3. Network Concurrent User.  The Programs may only be installed in a
+           central location on a single designated network server. Licensee
+           must run the License Manager in its Concurrent mode and may have
+           only as many Licensed Users simultaneously operating a Program at
+           any given time as the number of Concurrent keys acquired for that
+           Program.  Subject to the foregoing, a Licensed User of the
+           Concurrent License Option may utilize the Programs on any number
+           of Computers served by a single License Manager provided that,
+           before using a Program on any Computer, the Licensed User checks
+           out a separate Concurrent key from the License Manager for that
+           Computer.  Portions of the Programs may be installed on
+           university-owned or controlled individual Computers to accelerate
+           startup times, as long as the installations on the individual
+           Computers are controlled by the License Manager on the network
+           server.  Licensees of the Concurrent License Option are
+           prohibited from providing Program access to users located outside
+           the country in which the License Manager server is installed. 
+
+  3.3. MATLAB Distributed Computing Server.  Licensees of the MATLAB
+       Distributed Computing Server Program ("MDCS") are permitted to
+       install and make available Programs, other than any Ineligible
+       Program, on one or more Computers ("Computer Cluster") solely for use
+       through the MDCS, provided that (1) the Programs on the Computer
+       Cluster are controlled by a single License Manager on a single
+       designated network server for each MDCS, (2) the number of
+       simultaneous Program sessions does not exceed the number of MDCS
+       workers acquired, (3) access to any Program, whether in the MDCS or
+       otherwise, remains limited to those persons who are Licensed Users of
+       such Programs and the Parallel Computing Toolbox; and (4) access to
+       any Program, including the MDCS, is not made available (i) to any
+       Third Party without the advance written consent of MathWorks, or (ii)
+       to any user outside the country in which the MDCS License Manager is
+       installed.  
+
+4. REMOTE AND SHARED OPERATIONS
+
+    Subject also to the foregoing:
+
+  4.1. Remote Desktop Access:  Using the Microsoft Remote Desktop connection
+       feature or similar technologies:
+ 
+    4.1.1. Named Users may remotely access Programs for which they are
+           licensed.
+
+    4.1.2. Network Concurrent Users may remotely access Programs served by
+           the License Manager server for the License under which they are
+           operating.
+
+    4.1.3. The Licensee of a Designated Computer Activation Type may
+           designate one Licensed User to remotely access the Programs
+           licensed on the Designated Computer for operation on that
+           Designated Computer.  Licensee may redesignate such Licensed
+           User, whether temporarily or not, no more than four (4) times in
+           any twelve (12) month period.
+
+  4.2. Shared Access to the Desktop: 
+
+    4.2.1. A Licensed User using Microsoft Remote Assistance technology,
+           NetMeeting conferencing software, or similar technologies may
+           share remotely the desktop view of a Program session with another
+           individual for assistive or demonstrative purposes only. 
+
+
+
+THE MATHWORKS, INC. SOFTWARE LICENSE AGREEMENT - Student Version
+Installation and Use Addendum   
+
+This is an Addendum to The MathWorks, Inc. Software License Agreement (the
+"Agreement"), and the terms and conditions of this Addendum are incorporated
+therein.  Each capitalized term used herein and not defined herein shall
+have the meaning ascribed to it in the Agreement.  
+
+1. SCOPE.  The provisions of this Student Installation and Use Addendum
+   apply to the MATLAB and Simulink Student Version Programs and to any
+   other Programs licensed under the Agreement at prices offered to students
+   enrolled in degree-granting educational institutions ("Student prices").
+   This Addendum imposes certain additional obligations and restrictions
+   with respect to the Programs licensed at such Student prices that are not
+   contained in the Agreement.  In the event of a conflict between the
+   provisions of this Addendum and the Agreement, these Addendum provisions
+   shall apply.  The license provided for in this Addendum is referred to as
+   a "Student License".
+
+2. RETURNS AND REFUNDS.  Returns and refunds of Student License purchases
+   are subject to the refund policies at the time and point of purchase.
+
+3. REGISTRATION AND ACTIVATION.  The Programs contain technology for the
+   prevention of unlicensed or illegal use of the Programs.  Licensee agrees
+   to the use and application of such technology in the Programs (a) to
+   limit the installation and use of the Programs by Licensee to a finite
+   number of Computers, and (b) to require Licensee's registration of the
+   Student License and activation of the Programs in advance of the use of
+   the Programs (other than for temporary use) as further described in this
+   Addendum and in the Documentation for the Programs.
+
+4. ELIGIBILITY.  Licensee further agrees to the following eligibility
+   restrictions of the Student License:  the Licensee must be a student
+   enrolled in a degree-granting educational institution or participating in
+   a continuing education program at a degree-granting educational
+   institution.
+
+5. LICENSE TERM.  The Student License may be acquired (as available) in one
+   of two, separate term lengths, either the Standard Student License Term
+   (for the standard Student Version License) or the One-Year Student
+   License Term (for the Student Version One-Year License).  Licensees of
+   the Standard Student License Term agree that their Student License
+   expires automatically immediately after the duration of Licensee's
+   enrollment in a degree-granting institution or participation in a
+   continuing education program of a degree-granting institution.  Licensees
+   of the One-Year Student License Term agree that their Student License
+   expires automatically after one year, as measured from the date the
+   Student License is first activated.
+
+6. INSTALLATION AND USE.  The Student License permits the Licensee to use
+   the Programs at any time during the Term in accordance with the Agreement
+   on one Computer that Licensee owns or leases provided (i) the Programs
+   are only accessible to, and operated by, Licensee, and (ii) Licensee has
+   provided machine-specific identification for such Computer through the
+   registration and activation process.  Network installation is prohibited.  
+
+7. SOFTWARE MAINTENANCE SERVICE.  Software Maintenance Service is not
+   available for a Student License.
+
+8. ASSIGNMENT.   Student Licenses are nontransferable.
+
+9. DISTRIBUTION OF STUDENT VERSION LICENSES BY DEGREE-GRANTING EDUCATIONAL
+   INSTITUTIONS.  A degree-granting educational institution (the
+   "Institution") may place orders for Student Licenses and add-on Programs
+   for its enrolled students only for installation and use in accordance
+   with this Addendum.  It is expressly understood and agreed the
+   Institution shall take appropriate action to ensure (i) the Agreement
+   including this Addendum is delivered to each student Licensee intact with
+   the distribution of media; (ii) media seal notices provided by MathWorks
+   regarding the licensing of the Programs are delivered intact to the
+   student Licensees in receipt of media; and (iii) each student Licensee is
+   instructed not to copy the Programs or use them for commercial purposes,
+   and is required by the Institution to de-install the Programs at the
+   expiration of the Term for such student Licensee. 
+
+
+
+THE MATHWORKS, INC. SOFTWARE LICENSE AGREEMENT - Deployment Addendum
+
+This is an Addendum to The MathWorks, Inc. Software License Agreement (the
+"Agreement"), and the terms and conditions of this Addendum are incorporated
+therein.  Each capitalized term used herein and not defined herein shall
+have the meaning ascribed to it in the Agreement. 
+
+1. PURPOSE.  The MathWorks, Inc. Software License Agreement (the
+   "Agreement") contains restrictions prohibiting Licensee from modifying,
+   distributing, or providing access to the Programs or any Program
+   Components (as defined below), except as expressly provided in this
+   Addendum.  If the Programs licensed by Licensee under the Agreement
+   contain Source Code or Object Code Program Components, then this Addendum
+   sets forth the Licensee's rights with respect to creating Applications
+   and Derivative Forms and distributing Applications, Derivative Forms, and
+   Deployment Programs, as well as certain additional obligations related
+   thereto.  
+
+   MathWorks or its Licensors retain all right, title, and interest in its
+   Programs, Program Components, and Derivative Forms of its Programs.
+
+2. USER CREATED FILES.  This Addendum does not apply to M-files, MDL-files,
+   MEX-files, MAT- files, VHDL-files, Verilog-files, FIG-files and P-files
+   that are created by Licensee and that do not include any code obtained
+   from M-files, MAT-files, P-code, MDL-files, C/C++ files, VHDL-files,
+   Verilog-files, TLC-files, or other Source Code files supplied with the
+   Programs ("User Files").  Licensee may distribute, sublicense, and resell
+   without restriction, User Files.  
+
+3. NONCOMPETITION.  Licensee agrees not to use the Programs, Derivative
+   Forms, Generated Forms, or Program Components to make or distribute its
+   own or a Third Party's Application, a principal purpose of which, as
+   reasonably determined by MathWorks, is to perform the same or similar
+   functions as Programs licensed by MathWorks or which replaces any
+   component of the Programs.  Licensee shall not otherwise use the Programs
+   to compete with the products or businesses of MathWorks, including by
+   distributing Libraries, or any form of an entire Program or a substantial
+   portion of a Program.  
+
+4. DEFINITIONS.
+
+  4.1. Application.  A software file that Licensee has created by either (a)
+       using a MathWorks Program to compile or translate Licensee created
+       Source Code or (b) incorporating or linking any part of any Source
+       Code, library file, or other Program Component provided with the
+       Program.  An Application must contain original code developed by
+       Licensee and must provide substantial functionality not contained in,
+       or provided by, the Program Components that are incorporated into
+       such Application.  If a software file created by a Licensee
+       incorporates Program Components, but does not meet the requirements
+       of the previous sentence, then it is a Derivative Form (as defined
+       below).  An Application may contain Linked Object Code which, if such
+       Object Code was not Linked to the Application and was a standalone
+       file, would otherwise have been deemed a Derivative Form. 
+
+  4.2. Application License.  A license granted by Licensee to its end-users
+       for the installation and use of Licensee's Application.
+
+  4.3. Generated Forms.  The output of the MATLAB Compiler, Real-Time
+       Workshop, Stateflow Coder, Simulink HDL Coder, Embedded Coders, and
+       other MathWorks' code generation Programs in the form of Source Code,
+       as well as such Source Code converted to Object Code or Linked forms.
+
+  4.4. Derivative Forms.  A  software file that Licensee has derived from
+       one or more Program Components (including without limitation by
+       incorporating, translating, or modifying, in whole or in part, any
+       Program Component), and which, if modified or copied without
+       MathWorks' authorization, would constitute a copyright infringement
+       or breach of the Agreement.  A software file created by Licensee
+       which qualifies as an "Application" under the above definition shall
+       not be deemed a Derivative Form.
+
+  4.5. Linked.   An executable or loadable file created by a compiler or
+       linker program combining Object Code module files.
+
+  4.6. MAT-file.  The file format in which MATLAB stores data.
+   
+  4.7. MCR Libraries.  MATLAB Compiler Runtime support libraries and other
+       files for deployment of Applications created with the MATLAB
+       Compiler.
+
+  4.8. Object Code.  The code created by a system compiler from source code;
+       also called "machine- readable code".  Object Code can be Linked with
+       an appropriate linker to resolve address references and may be
+       combined with other Object Code for targeted execution on a specific
+       processor.  Object Code includes "Object Code libraries" and "shared
+       libraries," which are groupings of Object Code for specific purposes.
+
+  4.9. Program Component.  Any portion of, or file provided with, a Program.
+   
+  4.10. Source Code.  Human-readable program code written in a higher-level
+        language such as C, C++, Java, MATLAB, MDL, VHDL, Verilog, or
+        Fortran, which must be translated or compiled into machine-readable
+        language before it can be executed by a computer.  Source Code also
+        includes header files and other human-readable files necessary for a
+        Program to be compiled in the higher- level language.
+
+  4.11. Standalone Application.  An Application created using programming
+        languages and tools other than the Programs, which executes outside
+        of the Programs.
+
+  4.12. Deployment Program.  Any MathWorks Program that either (a) generates
+        Object Code or Source Code in response to user input, or (b)
+        contains executable functions or data accessed by an Application
+        (such as a DLL file).
+
+5. DEPLOYMENT PROGRAMS.  Licensed Users of MathWorks' Deployment Programs
+   may automatically generate code from M-files, Simulink/Stateflow
+   diagrams, and other representations, into Generated Forms.  Furthermore,
+   Licensee may copy and deploy these Generated Forms for use outside of the
+   Programs.
+
+   Not all Programs are eligible for deployment within Licensee's
+   Application.  For a list of Ineligible Programs see
+   www.mathworks.com/ineligible_programs. 
+
+  5.1. MATLAB Application Deployment Programs
+
+    5.1.1. MATLAB Compiler. Licensee may use and distribute the MCR
+           Libraries for the sole purpose of running Licensed User's
+           Application generated by the MATLAB Compiler.  Licensee may
+           deploy, at no cost, copies of such Applications that incorporate
+           the MCR Libraries and compiled versions of M-files from the
+           licensed Programs required for the Application.  No further fees
+           shall be due to MathWorks for such deployment within such
+           Applications, regardless of whether the Application is
+           distributed solely for Licensee's Internal Operations or to Third
+           Parties. 
+
+           Licensee may make copies of the MCR Libraries accessible for
+           deployment on an internal server provided such deployment is
+           solely to its Licensed Users for use with an Application and for
+           Licensee's Internal Operations only.  Licensee agrees to employ
+           the same security measures to protect the MCR Libraries as it
+           uses to safeguard Licensee's own proprietary intellectual
+           property, but in no event  less than reasonable care.  No further
+           fees shall be due to MathWorks for such server deployment.  
+
+           Licensee is prohibited from making copies of the MCR Libraries
+           accessible to any Third Party separate from a Licensed User's
+           Application.  
+
+      5.1.1.1. Licensed User may include, by compilation for deployment,
+               only those select M-files from the licensed Programs required
+               for the Application.  
+
+      5.1.1.2. In no event shall Licensee distribute any library header
+               files.
+
+      5.1.1.3. Licensee's Application may not provide functionality or
+               behavior similar to that of the MATLAB command line.  
+
+      5.1.1.4. Licensee's Application may not allow operation of the code
+               generation capabilities of Programs.
+
+      5.1.1.5. Licensee's Application may not provide access to an entire
+               Program or a substantial portion of a Program. 
+
+      5.1.1.6. Licensee shall include the notice "MATLAB. (c) 1984 - [INSERT
+               YEAR MATLAB VERSION PUBLISHED] The MathWorks, Inc." in the
+               deployed Application's About Box, or similar visible
+               location, and in the applicable documentation distributed
+               with each copy of the Application.  
+
+      5.1.1.7. Licensee must state in the documentation or other materials
+               distributed with the Application that Licensee's limited
+               rights to the deployment are governed by a certain license
+               agreement between Licensee and MathWorks. Licensee may not
+               modify or remove any license agreement file (MathWorks or
+               Third-Party) that is included with the MCR Libraries ("MCR
+               Library License").  Licensee shall insure that any licensee
+               of the Application must first accept the terms of such MCR
+               Library License prior to installation of the Application.
+
+  5.2. Simulink Application Deployment Programs 
+
+    5.2.1. Deployment Programs.  MathWorks provides directories of C, C++,
+           Assembly, linker command files, template makefiles, project
+           files, and TLC source code files with Programs that implement the
+           real-time framework, code generation instructions, libraries, and
+           Application Programming Interface (API) for use with the code
+           generated by the Simulink family of products, including Real-Time
+           Workshop, Stateflow Coder, Simulink HDL Coder, Embedded Coders
+           and other Programs.  Licensee may use, copy, and modify these
+           files in source code form for different development targets
+           provided that they are only copied for development use in
+           connection with Real-Time Workshop, Embedded Coders, Stateflow
+           Coder, or other code generation Programs.
+
+      5.2.1.1. Licensee may copy and deploy these files outside of the
+               Programs in Linked Object Code form or Source Code form, if
+               only used in combination with code generated by those
+               Programs as part of a larger standalone Application. 
+
+      5.2.1.2. No further fees shall be due to MathWorks for such deployment
+               within Licensee's Application, regardless of whether the
+               Application is deployed solely for Licensee's Internal
+               Operations or to Third Parties.
+
+    5.2.2. Real-Time Windows Target.  Licensee may not incorporate Real-Time
+           Windows Target into an Application for deployment without
+           contracting with MathWorks for an OEM or VAR agreement. 
+
+    5.2.3. xPC Target.  Licensee may develop Applications that incorporate
+           Linked-in copies of xPC Target and those files required for the
+           Application that have been compiled or otherwise obtained from
+           Real-Time Workshop and/or Stateflow Coder on a single development
+           PC, and download that Application to a target PC directly
+           connected to the development PC by either Ethernet or serial
+           connections.  When running on xPC TargetBox, the Application may
+           also be used for standalone operation, without connection to the
+           development PC.  
+
+      5.2.3.1 The right to distribute the Application beyond the target PC
+              is contingent upon acquiring a License for the xPC Target
+              Embedded Option.  No further fees shall be due to MathWorks
+              for such deployment within Licensee's Application, regardless
+              of whether the Application is deployed solely for Licensee's
+              Internal Operations or to Third Parties. Additionally, the
+              Embedded Option License allows for the deployment of API DLL's
+              beyond the development PC.  No further fees shall be due to
+              MathWorks for such deployment outside of an Application,
+              regardless of whether the API DLL's are deployed solely for
+              Licensee's Internal Operations or to Third Parties.  
+
+6. OTHER SOURCE CODE AND SHARED OBJECT CODE LIBRARIES. 
+
+  6.1. Programs may include selected Source Code and shared Object Code
+       library files that implement various documented application
+       programming interface capabilities of the Programs for which the
+       Source Code or shared library file is part. 
+
+    6.1.1. Licensed User may use and modify the selected Source Code files
+           solely for creation of Licensee's own Applications. Licensee may
+           copy and distribute Object Code compiled from this Source Code,
+           but only as either standalone Object Code file (regardless
+           whether a Derivative Form) or Object Code Linked to the
+           Application, and only for use with and deployment of Licensee's
+           own Application. 
+
+    6.1.2. Licensee may use, copy and distribute shared Object Code library
+           files (regardless whether a Derivative Form) for deployment of
+           Licensee's own Application, but only if a header file exists in
+           the Program for the shared library file. Licensee may not copy or
+           distribute header files themselves.
+
+    6.1.3. Licensee may not transfer Source Code, development rights, or
+           development capabilities for any Source Code or Object Code to
+           any Third Party.
+
+  6.2. MAT-files.  Licensed User may create and distribute Applications that
+       read MAT-files using the MAT-file API, however, if such Applications
+       are distributed to Third Parties, they must also implement MAT-file
+       write capability.
+
+7. DERIVATIVE FORMS.  A Licensee shall only be permitted to distribute a
+   Derivative Form to Third Parties (a) to the extent expressly permitted
+   under Articles 5 or 6 of this Addendum, or (b) subject to the
+   requirements of this Article 7.  A Licensee may only distribute a
+   Derivative Form to a Third Party under this Article 7 if such Third Party
+   is bound by a Software License Agreement with MathWorks that requires
+   such Third Party to treat such Derivative Forms received from Licensee as
+   such Third Party's own Derivative Form thereunder.  Licensee agrees that
+   if such a Third Party provides Licensee with software that is a
+   Derivative Form under the terms of such Third Party's Software License
+   Agreement with MathWorks (or would otherwise be a Derivative Form under
+   the terms of this Agreement), then Licensee shall treat such software as
+   a Derivative Form hereunder as if Licensee has modified or generated the
+   software itself.
+
+8. WEB APPLICATIONS.  Only Programs licensed under the Network Concurrent
+   User or Designated Computer Activation Types may be called from within a
+   web Standalone Application, provided the web Standalone Application does
+   not provide access to the MATLAB command line, or any of the licensed
+   Programs with code generation capabilities.  In addition, Licensed Users
+   may not provide access to an entire Program or a substantial portion of a
+   Program.  Such operation of a Standalone Application via a web interface
+   may be provided to an unlimited number of web browser clients, at no
+   cost, for Licensee's own use for its Internal Operations, and for use by
+   Third Parties. 
+
+9. APPLICATION LICENSING.  For any distribution of Applications containing
+   Object Code or Generated Forms to:
+
+  9.1. Licensee's internal organization:  Licensee shall take appropriate
+       action by instruction, agreement, or otherwise with any recipients of
+       the Application, so as to enable Licensee to satisfy its obligations
+       under the terms of this Addendum and the Agreement.
+
+  9.2. Third Parties:  Your Application shall be accompanied by an
+       Application License whose terms and conditions are at least as
+       restrictive as the Agreement, unless the Application is part of an
+       embedded system that has no provision for licensing to its end users. 
+
+    9.2.1. The Application license for Third Parties must explicitly exclude
+           MathWorks and its Licensors from all liability for damages or any
+           obligation to provide remedial actions.
+
+    9.2.2. In no circumstance shall Licensee include a warranty for any form
+           of a Program that is inconsistent with or additional to the
+           warranty contained in the Agreement.  
+
+    9.2.3. The additional translation, use, and deployment rights granted in
+           this Addendum are nontransferable without MathWorks' consent and
+           shall not be conveyed in Licensee's Application license. 
+
+    9.2.4. All copyright and proprietary notices for the Programs that
+           appear in the original form delivered to Licensee shall be
+           duplicated and included with Licensee's own copyright notices for
+           the Application, wherever they appear.
+
+    9.2.5. Licensee may not remove any copyright, trademark, logo,
+           proprietary rights, disclaimer or warning notice included on or
+           embedded in any part of the deployed Application.
+
+  9.3. Notwithstanding the termination of the Agreement, all valid
+       Application licenses shall remain and continue in full force and
+       effect, and, if the Agreement was not terminated due to:  (a)
+       Licensee's failure to pay the applicable fees to MathWorks, (b)
+       Licensee's violation of the License restrictions, or (c) violation of
+       MathWorks' proprietary rights in the Programs; then Licensee may
+       continue to use the Programs to support Applications that have been
+       placed in use pursuant to an Application License prior to the
+       effective date of termination.
+
+10. DISCLAIMER OF OBLIGATIONS AND LIABILITY.
+
+  10.1. MathWorks shall have no support or warranty obligations, and
+        disclaims all liability, for Applications developed or distributed
+        by Licensee.
+
+  10.2. Licensee agrees that prior to using, incorporating, or distributing
+        the Programs in any Application, it will thoroughly test and
+        validate the Application and the functionality of the Programs in
+        that Application and be solely responsible for any problems or
+        failures.
+
+  10.3. Licensee will defend, indemnify, and hold harmless MathWorks and its
+        Licensors, officers, directors, employees, agents and resellers from
+        and against any damages, liabilities, costs and expenses (including
+        reasonable fees of MathWorks' attorneys) arising out of any Third
+        Party claim or demand based on or arising from, out of or in
+        connection with (i) the creation, use, or distribution of any
+        Applications or (ii) the use of the Programs by Licensee.
+
+11. GENERAL.  Licensee acknowledges and agrees that a breach of the
+    obligations set forth in this Addendum shall be a material breach of the
+    Agreement.
+
+10/08
+PN 20350 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Microsoft Visual C++ 2005 Redistributable (x64) License: Version-8.0.56336
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT VISUAL C++ 2005 RUNTIME LIBRARIES
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+By using the software, you accept these terms.  If you do not accept them, do not use the software.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* disclose the results of any benchmark tests of the software to any third party without Microsoft’s prior written approval;
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   The software is licensed “as-is.”  You bear the risk of using it.  Microsoft gives no express warranties, guarantees or conditions.  You may have additional consumer rights under your local laws which this agreement cannot change.  To the extent permitted under your local laws, Microsoft excludes the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.   You can recover from Microsoft and its suppliers only direct damages up to U.S. $5.00.  You cannot recover any other damages, including consequential, lost profits, special, indirect or incidental damages.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+.Net Framework License: version-4.0.30319
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+IMPORTANT: READ CAREFULLY—These Microsoft Corporation ("Microsoft") operating system components, including any "online" or electronic documentation ("OS Components") are subject to the terms and conditions of the agreement under which you have licensed the applicable Microsoft operating system product ("OS Product") described below (each an "End User License Agreement" or "EULA") and the terms and conditions of this Supplemental EULA. BY INSTALLING, COPYING OR OTHERWISE USING THE OS COMPONENTS, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THE APPLICABLE OS PRODUCT EULA AND THIS SUPPLEMENTAL EULA. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, DO NOT INSTALL, COPY OR USE THE OS COMPONENTS.
+
+NOTE: IF YOU DO NOT HAVE A VALID EULA FOR ANY "OS PRODUCT" (MICROSOFT WINDOWS 98, WINDOWS ME, WINDOWS NT 4.0 (DESKTOP EDITION), WINDOWS 2000 OPERATING SYSTEM, WINDOWS XP PROFESSIONAL AND/OR WINDOWS XP HOME EDITION), YOU ARE NOT AUTHORIZED TO INSTALL, COPY OR OTHERWISE USE THE OS COMPONENTS AND YOU HAVE NO RIGHTS UNDER THIS SUPPLEMENTAL EULA.
+
+Capitalized terms used in this Supplemental EULA and not otherwise defined herein shall have the meanings assigned to them in the applicable OS Product EULA.
+
+General. The OS Components are provided to you by Microsoft to update, supplement, or replace existing functionality of the applicable OS Product Microsoft grants you a license to use the OS Components under the terms and conditions of the OS Product EULA for the applicable OS Product (which are hereby incorporated by reference) and the terms and conditions set forth in this Supplemental EULA, provided that you comply with all such terms and conditions. To the extent that any terms in this Supplemental EULA conflict with terms in the applicable OS Product EULA, the terms of this Supplemental EULA control solely with respect to the OS Components.
+
+Additional Rights and Limitations. 
+*If you have multiple validly licensed copies of the applicable OS Product(s), you may reproduce, install and use one copy of the OS Components as part of such applicable OS Product(s) on all of your computers running validly licensed copies of the OS Product(s) provided that you use such additional copies of the OS Components in accordance with the terms and conditions above. 
+
+*You may conduct internal benchmark testing of the .NET Framework component of the OS Components (".NET Component"). You may disclose the results of any benchmark test of the .NET Component, provided that you comply with the following terms: (1) you must disclose all the information necessary for replication of the tests, including complete and accurate details of your benchmark testing methodology, the test scripts/cases, tuning parameters applied, hardware and software platforms tested, the name and version number of any third party testing tool used to conduct the testing, and complete source code for the benchmark suite/harness that is developed by or for you and used to test both the .NET Component and the competing implementation(s); (2) you must disclose the date(s) that you conducted the benchmark tests, along with specific version information for all Microsoft software products tested, including the .NET Component; (3) your benchmark testing was performed using all performance tuning and best practice guidance set forth in the product documentation and/or on Microsoft's support web sites, and uses the latest updates, patches and fixes available for the .NET Component and the relevant Microsoft operating system; (4) it shall be sufficient if you make the disclosures provided for above at a publicly available location such as a website, so long as every public disclosure of the results of your benchmark test expressly identifies the public site containing all required disclosures; and (5) nothing in this provision shall be deemed to waive any other right that you may have to conduct benchmark testing. The foregoing obligations shall not apply to your disclosure of the results of any customized benchmark test of the .NET Component, whereby such disclosure is made under confidentiality in conjunction with a bid request by a prospective customer, such customer's application(s) are specifically tested and the results are only disclosed to such specific customer. Notwithstanding any other agreement you may have with Microsoft, if you disclose such benchmark test results, Microsoft shall have the right to disclose the results of benchmark tests it conducts of your products that compete with the .NET Component, provided it complies with the same conditions above.
+
+*Microsoft retains all right, title and interest in and to the OS Components. All rights not expressly granted are reserved by Microsoft.
+
+IF THE APPLICABLE OS PRODUCT WAS LICENSED TO YOU BY MICROSOFT OR ANY OF ITS WHOLLY OWNED SUBSIDIARIES, THE LIMITED WARRANTY (IF ANY) INCLUDED IN THE APPLICABLE OS PRODUCT EULA APPLIES TO THE OS COMPONENTS PROVIDED THE OS COMPONENTS HAVE BEEN LICENSED BY YOU WITHIN THE TERM OF THE LIMITED WARRANTY IN THE APPLICABLE OS PRODUCT EULA. HOWEVER, THIS SUPPLEMENTAL EULA DOES NOT EXTEND THE TIME PERIOD FOR WHICH THE LIMITED WARRANTY IS PROVIDED.
+
+IF THE APPLICABLE OS PRODUCT WAS LICENSED TO YOU BY AN ENTITY OTHER THAN MICROSOFT OR ANY OF ITS WHOLLY OWNED SUBSIDIARIES, MICROSOFT DISCLAIMS ALL WARRANTIES WITH RESPECT TO THE OS COMPONENTS AS FOLLOWS:
+
+DISCLAIMER OF WARRANTIES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MICROSOFT AND ITS SUPPLIERS PROVIDE TO YOU THE OS COMPONENTS, AND ANY (IF ANY) SUPPORT SERVICES RELATED TO THE OS COMPONENTS ("SUPPORT SERVICES") AS IS AND WITH ALL FAULTS; and Microsoft and its suppliers hereby disclaim with respect to THE os COMPONENTS AND SUPPORT SERVICES all warranties and conditions, whether express, implied or statutory, including, but not limited to, any (if any) warranties or conditions of OR RELATED TO: TITLE, NON-INFRINGEMENT, merchantability, fitness for a particular purpose, lack of viruses, accuracy or completeness of responses, results, lack of negligence or lack of workmanlike effort, QUIET ENJOYMENT, QUIET POSSESSION, AND CORRESPONDENCE TO DESCRIPTION. The entire risk arising out of use or performance of the OS Components AND ANY SUPPORT SERVICES remains with you.
+
+EXCLUSION OF INCIDENTAL, CONSEQUENTIAL AND CERTAIN OTHER DAMAGES. To the maximum extent permitted by applicable law, in no event shall Microsoft or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for: loss of profits, LOSS OF confidential or other information, business interruption, personal injury, loss of privacy, failure to meet any duty (including of good faith or of reasonable care), negligence, and any other pecuniary or other loss whatsoever) arising out of or in any way related to the use of or inability to use the OS Components OR THE SUPPORT SERVICES, OR the provision of or failure to provide Support Services, or otherwise under or in connection with any provision of this Supplemental EULA, even if Microsoft or any supplier has been advised of the possibility of such damages. 
+
+LIMITATION OF LIABILITY AND REMEDIES. NOTWITHSTANDING ANY DAMAGES THAT YOU MIGHT INCUR FOR ANY REASON WHATSOEVER (INCLUDING, WITHOUT LIMITATION, ALL DAMAGES REFERENCED ABOVE AND ALL DIRECT OR GENERAL DAMAGES), THE ENTIRE LIABILITY OF MICROSOFT AND ANY OF ITS SUPPLIERS UNDER ANY PROVISION OF THIS SUPPLEMENTAL EULA AND YOUR EXCLUSIVE REMEDY FOR ALL OF THE FOREGOING SHALL BE LIMITED TO THE GREATER OF THE AMOUNT ACTUALLY PAID BY YOU FOR THE OS COMPONENTS OR U.S.$5.00. THE FOREGOING LIMITATIONS, EXCLUSIONS AND DISCLAIMERS SHALL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EVEN IF ANY REMEDY FAILS ITS ESSENTIAL PURPOSE.
+
+Si vous avez acquis votre produit Microsoft au CANADA, le texte suivant vous concerne :
+
+SI LE PRODUIT OS APPLICABLE VOUS A ÉTÉ CONCÉDÉ SOUS LICENCE PAR MICROSOFT OU PAR L'UNE QUELCONQUE DE SES FILIALES À 100%, LA GARANTIE LIMITÉE (SI ELLE EXISTE) APPLICABLE EN VERTU DU CONTRAT DE LICENCE UTILISATEUR FINAL (« CLUF ») RELATIF À CE PRODUIT OS S'APPLIQUE AUX COMPOSANTS SYSTÈME D'EXPLOITATION DE MICROSOFT Y COMPRIS TOUTE DOCUMENTATION « EN LIGNE » OU SOUS FORME ÉLECTRONIQUE (LES « COMPOSANTS OS »), À CONDITION QUE CEUX-CI VOUS AIENT ÉTÉ CONCÉDÉS SOUS LICENCE PENDANT LA DURÉE DE LA GARANTIE LIMITÉE DU CLUF RELATIF AU PRODUIT OS APPLICABLE. LE PRÉSENT CLUF SUPPLÉMENTAIRE N'A PAS POUR EFFET DE PROROGER LA DURÉE DE CETTE GARANTIE LIMITÉE.
+
+SI LE PRODUIT OS VOUS A ÉTÉ CONCÉDÉ SOUS LICENCE PAR UNE ENTITÉ AUTRE QUE MICROSOFT OU QUE L'UNE QUELCONQUE DE SES FILIALES À 100%, MICROSOFT EXCLUT TOUTE GARANTIE RELATIVE AUX COMPOSANTS OS COMME CELA EST STIPULÉ CI-APRÈS :
+
+EXCLUSION DE GARANTIE. DANS TOUTE LA MESURE PERMISE PAR LE DROIT APPLICABLE, MICROSOFT ET SES FOURNISSEURS VOUS FOURNISSENT LES COMPOSANTS OS, AINSI QUE, LE CAS ÉCHÉANT, TOUT SERVICE D'ASSISTANCE RELATIF À CES COMPOSANTS OS (LES "SERVICES D'ASSISTANCE"), « COMME TELS ET AVEC TOUS LEURS DEFAUTS ». EN OUTRE, MICROSOFT ET SES FOURNISSEURS EXCLUENT PAR LES PRÉSENTES TOUTE AUTRE GARANTIE LÉGALE, EXPRESSE OU IMPLICITE, RELATIVE AUX COMPOSANTS OS ET AUX SERVICES D'ASSISTANCE, NOTAMMENT (LE CAS ÉCHÉANT), TOUTE GARANTIE : DE PROPRIÉTÉ, D'ABSENCE DE CONTREFAÇON, DE QUALITÉ, D'ADAPTATION À UN USAGE PARTICULIER, D'ABSENCE DE VIRUS, DE PRÉCISION, D'EXHAUSTIVITÉ DES RÉPONSES, DES RÉ;SULTATS OBTENUS, D'ABSENCE DE NÉGLIGENCE, OU DE DÉFAUT DE FABRICATION, DE JOUISSANCE PAISIBLE, D'ABSENCE DE TROUBLE DE POSSESSION ET DE CONFORMITÉ À LA DESCRIPTION. VOUS ASSUMEZ L'ENSEMBLE DES RISQUES DÉCOULANT DE L'UTILISATION OU DU FONCTIONNEMENT DES COMPOSANTS OS ET DES SERVICES D'ASSISTANCE.
+
+EXCLUSION DE RESPONSABILITÉ POUR LES DOMMAGES ACCESSOIRES, INDIRECTS ET CERTAINS AUTRES TYPES DE DOMMAGES. DANS TOUTE LA MESURE PERMISE PAR LE DROIT APPLICABLE, MICROSOFT OU SES FOURNISSEURS NE POURRONT EN AUCUN CAS ÊTRE TENUS RESPONSABLES DE TOUT DOMMAGE SPÉCIAL, ACCESSOIRE, INCIDENT OU INDIRECT DE QUELQUE NATURE QUE CE SOIT (Y COMPRIS, MAIS NON DE FACON LIMITATIVE, LES PERTES DE BÉNÉFICES, PERTES D'INFORMATIONS CONFIDENTIELLES OU AUTRES INFORMATIONS, INTERRUPTIONS D'ACTIVITÉ, PRÉJUDICES CORPORELS, ATTEINTES À LA VIE PRIVÉE, MANQUEMENT À TOUTE OBLIGATION (NOTAMMENT L'OBLIGATION DE BONNE FOI ET DE DILIGENCE), NÉGLIGENCE, ET POUR TOUTE PERTE PÉCUNIAIRE OU AUTRE DE QUELQUE NATURE QUE CE SOIT), RÉSULTANT DE, OU RELATIFS A, L'UTILISATION OU L'IMPOSSIBILITÉ D'UTILISER LES COMPOSANTS OS OU LES SERVICES D'ASSISTANCE, OU LA FOURNITURE OU LE DÉFAUT DE FOURNITURE DES SERVICES D'ASSISTANCE, OU AUTREMENT EN VERTU DE, OU RELATIVEMENT A, TOUTE DISPOSITION DE CE CLUF SUPPLÉMENTAIRE, MÊME SI LA SOCIÉTÉ MICROSOFT OU UN QUELCONQUE FOURNISSEUR A ÉTÉ PRÉVENU DE L'ÉVENTUALITÉ DE TELS DOMMAGES.
+
+LIMITATION DE RESPONSABILITÉ ET RECOURS. NONOBSTANT TOUT DOMMAGE QUE VOUS POURRIEZ SUBIR POUR QUELQUE MOTIF QUE CE SOIT (NOTAMMENT TOUS LES DOMMAGES ÉNUMÉ;RÉS CI-DESSUS ET TOUS LES DOMMAGES DIRECTS OU GÉNÉRAUX), L'ENTIÈRE RESPONSABILITÉ DE MICROSOFT ET DE L'UN QUELCONQUE DE SES FOURNISSEURS AU TITRE DE TOUTE STIPULATION DE CE CLUF SUPPLÉMENTAIRE ET VOTRE SEUL RECOURS EN CE QUI CONCERNE TOUS LES DOMMAGES PRÉCITÉS NE SAURAIENT EXCÉDER LE MONTANT QUE VOUS AVEZ EFFECTIVEMENT PAYÉ POUR LES COMPOSANTS OS OU 5 DOLLARS US (US$ 5,00), SELON LE PLUS ÉLEVÉ DES DEUX MONTANTS. LES PRÉSENTES LIMITATIONS ET EXCLUSIONS DEMEURERONT APPLICABLES DANS TOUTE LA MESURE PERMISE PAR LE DROIT APPLICABLE QUAND BIEN MÊME UN QUELCONQUE REMÈDE À UN QUELCONQUE MANQUEMENT NE PRODUIRAIT PAS D'EFFET.
+
+La présente Convention est ré;gie par les lois de la province d'Ontario, Canada. Chacune des parties à la présente reconnaît irrévocablement la compétence des tribunaux de la province d'Ontario et consent à instituer tout litige qui pourrait découler de la présente auprès des tribunaux situés dans le district judiciaire de York, province d'Ontario.
+
+Au cas où vous auriez des questions concernant cette licence ou que vous dé;siriez vous mettre en rapport avec Microsoft pour quelque raison que ce soit, veuillez contacter la succursale Microsoft desservant votre pays, ou écrire à : Microsoft Sales Information Center, One Microsoft Way, Redmond, Washington 98052-6399.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RaPiD ToolKit License & Copyrights:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Copyright 2014 ACM 978-1-4503-3056-5/11
+
+http://dx.doi.org/10.1145/2635868.2661668
+OR
+http://dl.acm.org/citation.cfm?doid=2635868.2661668
