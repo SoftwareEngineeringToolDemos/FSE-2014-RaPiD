@@ -8,14 +8,24 @@ Vagrant.configure(2) do |config|
   config.vm.box = "rifung/win7_64"
   config.vm.hostname = "RaPiD" 
   config.vm.provider :virtualbox do |vb| 
-  vb.name = "RaPiD" 
+  vb.name = "Chowan-vboddul-RaPiD" 
  end 
+ 
+   config.vm.provider "virtualbox" do |vb|
+  	# Display the VirtualBox GUI when booting the machine
+       vb.gui = true
+
+        #Disable USB 
+       vb.customize ["modifyvm", :id, "--usb", "off"] 
+       vb.customize ["modifyvm", :id, "--usbehci", "off"] 
+
+  end
 
   config.vm.communicator = "winrm"
 
  # for provisioning we need:
   # chocolatey:
-  config.vm.provision :shell, path: "scripts/Install-Chocolatey.ps1"
+  config.vm.provision :shell, path: "scripts/InstallChocolatey.ps1"
   # ...in the path for all users:
   config.vm.provision :shell, inline: '[Environment]::SetEnvironmentVariable("Path", $env:Path + ";C:\Chocolatey\bin", "Machine")'
 
@@ -29,13 +39,4 @@ Vagrant.configure(2) do |config|
 
   config.vm.provision :shell, path: "scripts/install-RaPiD.ps1"
 
-  config.vm.provider "virtualbox" do |vb|
-  	# Display the VirtualBox GUI when booting the machine
-       vb.gui = true
-
-        #Disable USB 
-       vb.customize ["modifyvm", :id, "--usb", "off"] 
-       vb.customize ["modifyvm", :id, "--usbehci", "off"] 
-
-  end
 end
