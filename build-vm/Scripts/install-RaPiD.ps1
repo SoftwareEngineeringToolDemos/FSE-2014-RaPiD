@@ -3,6 +3,7 @@ $desktop = [Environment]::GetFolderPath("Desktop")
 
 # Copy Files
 Copy-Item -path c:\vagrant\files\*.txt -Destination $desktop -Recurse
+Copy-Item -path c:\vagrant\files\*.url -Destination $desktop -Recurse
 Copy-Item -path c:\vagrant\files\* -Destination $desktop -Recurse
 
 # Create Shortcuts
