@@ -1,22 +1,23 @@
 #README for Building VM (build-vm)
 
-Steps to create VM Script:
+This folder contains files and scripts to build a virtual machine for the tool RaPiD using Vagrant.
+
+
+Steps to Build VM:
 -----
 1. Download Vagrant from [here](https://www.vagrantup.com/)
 2. Install Vagrant
 3. Download VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads)
 4. Install VirtualBox
-5. Download all files from [build-vm folder](https://github.com/SoftwareEngineeringToolDemos/FSE-2014-RaPiD/tree/master/build-vm)
-6. Download the MCRInstaller (prerequisite software) by following instructions [here](https://github.com/SoftwareEngineeringToolDemos/FSE-2014-RaPiD/blob/master/build-vm/software/README.md) into same VM folder as above
-7. Open a command window
-8. Go to the folder where the files are downloaded.
+5. Download Git from [here](https://git-scm.com/downloads)
+6. Install Git
+7. Using git, clone the repository from [here](https://github.com/SoftwareEngineeringToolDemos/FSE-2014-RaPiD)
+8. Navigate to build-vm folder
 9. execute command "__vagrant up__"
 
 Note:
 ------
 - Setup of Windows Vagrant box might take longer time if you are executing for the first time.
-- Please wait until message "Setting successful, MCR has been installed."
-- The MATLAB compiler runtime is installed in c:\Program Files\MATLAB
 
 Environment:
 ------
@@ -31,6 +32,7 @@ __External sources:__
 
 __prerequisite software:__ 
 - This VM script installs two prerequiste softwares i) Microsoft Visual C++ 2005 ii) MATLAB Compiler Runtime
+- This VM box is preinstalled with .Net Framework 4.5 which is also one of the required software for this tool
 
 
 Folder contents:
@@ -41,8 +43,10 @@ This build-vm folder contains following things:
   - This is the script file of the VM
 - __vagrant-provision-reboot-plugin.rb__
   - This is a reboot plugin for vagrant, which let VMs to reboot during executing provisions.
-- __shell folder__
-  This folder contains scripts of settings, installations.
+- __Scripts folder__
+  This folder contains scripts of settings, installations of tool.
+- __Files folder__
+  This folder contains all the files to be copied on to the Guest VM box.
 - __software/README.md file__
   This has the instructions to download perquisite MCR installer executable file.
 
