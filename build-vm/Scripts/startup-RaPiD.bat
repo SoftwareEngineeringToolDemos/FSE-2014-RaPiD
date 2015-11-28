@@ -1,5 +1,1 @@
-@echo off
-
-start "" "%userprofile%\desktop\RaPiD.exe - Shortcut"
-
-exit
+del "C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\RaPiD.lnk" /s /q
