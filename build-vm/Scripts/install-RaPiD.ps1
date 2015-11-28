@@ -1,5 +1,5 @@
 #Desktop Location
-$desktop = [Environment]::GetFolderPath("Desktop")
+$desktop = "C:\Users\Administrator\Desktop"
 
 # Copy Files
 Copy-Item -path c:\vagrant\files\*.txt -Destination $desktop -Recurse
