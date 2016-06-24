@@ -10,10 +10,9 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for RaPiD, you will find:
 * :x: The Source Code (not available)
-* :white_check_mark: [The Original Tool - RaPiD](https://profilelingui.wordpress.com/research-work/rapid-tool/) (available)
 * :white_check_mark: [Binary](https://github.com/SoftwareEngineeringToolDemos/FSE-2014-RaPiD/tree/master/RaPiDBinaries) (available)
 * :white_check_mark: [build-vm](https://github.com/SoftwareEngineeringToolDemos/FSE-2014-RaPiD/tree/master/build-vm) folder which contains Vargrant script to load the tool in a Windows 7 64bit Virtual Machine 
-* :white_check_mark: [Virtual Machine containing tool](https://drive.google.com/open?id=0B49X0Deb-wzwTXV0Y1BIVGhVVnc)
+* :x: Virtual machine containing tool (not available)
 
 
 This repository was constructed by [Sumeet Agarwal](https://github.com/sumeet29), [Vineela Boddula](https://github.com/boddulavineela), [Sarah Elder](https://github.com/seelder),  [Shrenuj Gandhi](https://github.com/shrenujgandhi), and [Alex Valkovsky](https://github.com/avalkovsky) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Lin Gui et. al, for their help in establishing this repository. 
